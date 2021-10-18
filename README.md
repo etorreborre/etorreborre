@@ -70,6 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#13](https://github.com/etorreborre/specs2-cats/issues/13) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
+2. 🗣 Commented on [#1007](https://github.com/etorreborre/specs2/issues/1007) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#1007](https://github.com/etorreborre/specs2/issues/1007) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🎉 Merged PR [#4](https://github.com/etorreborre/specs2-cats/pull/4) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
+5. 🗣 Commented on [#4](https://github.com/etorreborre/specs2-cats/issues/4) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
 <!--END_SECTION:activity-->
 
 </details>
