@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/waddlaw/haskell-stack-trace-plugin/issues/14) in [waddlaw/haskell-stack-trace-plugin](https://github.com/waddlaw/haskell-stack-trace-plugin)
-2. 🗣 Commented on [#8](https://github.com/waddlaw/haskell-stack-trace-plugin/issues/8) in [waddlaw/haskell-stack-trace-plugin](https://github.com/waddlaw/haskell-stack-trace-plugin)
-3. ❌ Closed PR [#1010](https://github.com/etorreborre/specs2/pull/1010) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🗣 Commented on [#1010](https://github.com/etorreborre/specs2/issues/1010) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#1013](https://github.com/etorreborre/specs2/pull/1013) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. ❗️ Closed issue [#1014](https://github.com/etorreborre/specs2/issues/1014) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1014](https://github.com/etorreborre/specs2/issues/1014) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. ❗️ Closed issue [#1015](https://github.com/etorreborre/specs2/issues/1015) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🗣 Commented on [#1015](https://github.com/etorreborre/specs2/issues/1015) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. ❗️ Opened issue [#14](https://github.com/waddlaw/haskell-stack-trace-plugin/issues/14) in [waddlaw/haskell-stack-trace-plugin](https://github.com/waddlaw/haskell-stack-trace-plugin)
 <!--END_SECTION:activity-->
 
 </details>
