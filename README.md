@@ -71,7 +71,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13782](https://github.com/lampepfl/dotty/issues/13782) in [lampepfl/dotty](https://github.com/lampepfl/dotty)
-2. 🗣 Commented on [#1018](https://github.com/etorreborre/specs2/issues/1018) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#13782](https://github.com/lampepfl/dotty/issues/13782) in [lampepfl/dotty](https://github.com/lampepfl/dotty)
 3. 🗣 Commented on [#1018](https://github.com/etorreborre/specs2/issues/1018) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 4. 🗣 Commented on [#1018](https://github.com/etorreborre/specs2/issues/1018) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 5. 🗣 Commented on [#1018](https://github.com/etorreborre/specs2/issues/1018) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
