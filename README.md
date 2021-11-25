@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1027](https://github.com/etorreborre/specs2/issues/1027) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🗣 Commented on [#31](https://github.com/etorreborre/specs2-cats/issues/31) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
-3. 🗣 Commented on [#1025](https://github.com/etorreborre/specs2/issues/1025) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. ❗️ Closed issue [#1025](https://github.com/etorreborre/specs2/issues/1025) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🗣 Commented on [#1024](https://github.com/etorreborre/specs2/issues/1024) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. ❗️ Closed issue [#1027](https://github.com/etorreborre/specs2/issues/1027) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1027](https://github.com/etorreborre/specs2/issues/1027) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#31](https://github.com/etorreborre/specs2-cats/issues/31) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
+4. 🗣 Commented on [#1025](https://github.com/etorreborre/specs2/issues/1025) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. ❗️ Closed issue [#1025](https://github.com/etorreborre/specs2/issues/1025) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
