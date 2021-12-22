@@ -71,10 +71,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1028](https://github.com/etorreborre/specs2/issues/1028) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🎉 Merged PR [#1041](https://github.com/etorreborre/specs2/pull/1041) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🎉 Merged PR [#1040](https://github.com/etorreborre/specs2/pull/1040) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#1039](https://github.com/etorreborre/specs2/pull/1039) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🗣 Commented on [#33](https://github.com/etorreborre/specs2-cats/issues/33) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
+2. 🗣 Commented on [#1028](https://github.com/etorreborre/specs2/issues/1028) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🎉 Merged PR [#1041](https://github.com/etorreborre/specs2/pull/1041) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🎉 Merged PR [#1040](https://github.com/etorreborre/specs2/pull/1040) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#1039](https://github.com/etorreborre/specs2/pull/1039) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
