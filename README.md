@@ -71,10 +71,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1065](https://github.com/etorreborre/specs2/issues/1065) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🎉 Merged PR [#1065](https://github.com/etorreborre/specs2/pull/1065) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1065](https://github.com/etorreborre/specs2/issues/1065) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1065](https://github.com/etorreborre/specs2/issues/1065) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🎉 Merged PR [#1065](https://github.com/etorreborre/specs2/pull/1065) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 4. 🗣 Commented on [#1065](https://github.com/etorreborre/specs2/issues/1065) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#1060](https://github.com/etorreborre/specs2/pull/1060) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🗣 Commented on [#1065](https://github.com/etorreborre/specs2/issues/1065) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
