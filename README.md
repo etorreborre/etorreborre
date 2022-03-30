@@ -71,10 +71,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1072](https://github.com/etorreborre/specs2/issues/1072) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🗣 Commented on [#2908](https://github.com/typelevel/cats-effect/issues/2908) in [typelevel/cats-effect](https://github.com/typelevel/cats-effect)
-3. 🗣 Commented on [#2908](https://github.com/typelevel/cats-effect/issues/2908) in [typelevel/cats-effect](https://github.com/typelevel/cats-effect)
-4. 🗣 Commented on [#2908](https://github.com/typelevel/cats-effect/issues/2908) in [typelevel/cats-effect](https://github.com/typelevel/cats-effect)
-5. ❗️ Closed issue [#1007](https://github.com/etorreborre/specs2/issues/1007) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. ❌ Closed PR [#1072](https://github.com/etorreborre/specs2/pull/1072) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#1072](https://github.com/etorreborre/specs2/issues/1072) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🗣 Commented on [#1072](https://github.com/etorreborre/specs2/issues/1072) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🗣 Commented on [#1072](https://github.com/etorreborre/specs2/issues/1072) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
