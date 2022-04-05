@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1072](https://github.com/etorreborre/specs2/issues/1072) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. ❌ Closed PR [#1072](https://github.com/etorreborre/specs2/pull/1072) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1072](https://github.com/etorreborre/specs2/issues/1072) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🎉 Merged PR [#1075](https://github.com/etorreborre/specs2/pull/1075) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#1074](https://github.com/etorreborre/specs2/pull/1074) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🎉 Merged PR [#1073](https://github.com/etorreborre/specs2/pull/1073) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 4. 🗣 Commented on [#1072](https://github.com/etorreborre/specs2/issues/1072) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🗣 Commented on [#1072](https://github.com/etorreborre/specs2/issues/1072) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. ❌ Closed PR [#1072](https://github.com/etorreborre/specs2/pull/1072) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
