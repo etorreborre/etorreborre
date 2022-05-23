@@ -72,9 +72,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/etorreborre/specs2-cats/issues/45) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
 2. 🗣 Commented on [#45](https://github.com/etorreborre/specs2-cats/issues/45) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
-3. 💪 Opened PR [#91](https://github.com/etorreborre/specs2-cats/pull/91) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
-4. 💪 Opened PR [#6575](https://github.com/commercialhaskell/stackage/pull/6575) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
-5. ❗️ Opened issue [#84](https://github.com/msgpack/msgpack-haskell/issues/84) in [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell)
+3. 🗣 Commented on [#45](https://github.com/etorreborre/specs2-cats/issues/45) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
+4. 💪 Opened PR [#91](https://github.com/etorreborre/specs2-cats/pull/91) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
+5. 💪 Opened PR [#6575](https://github.com/commercialhaskell/stackage/pull/6575) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
 <!--END_SECTION:activity-->
 
 </details>
