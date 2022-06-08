@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#167](https://github.com/zfoh/zfoh.ch/pull/167) in [zfoh/zfoh.ch](https://github.com/zfoh/zfoh.ch)
-2. 🗣 Commented on [#45](https://github.com/etorreborre/specs2-cats/issues/45) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
+1. 🗣 Commented on [#854](https://github.com/haskell/aeson/issues/854) in [haskell/aeson](https://github.com/haskell/aeson)
+2. 💪 Opened PR [#167](https://github.com/zfoh/zfoh.ch/pull/167) in [zfoh/zfoh.ch](https://github.com/zfoh/zfoh.ch)
 3. 🗣 Commented on [#45](https://github.com/etorreborre/specs2-cats/issues/45) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
 4. 🗣 Commented on [#45](https://github.com/etorreborre/specs2-cats/issues/45) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
-5. 💪 Opened PR [#91](https://github.com/etorreborre/specs2-cats/pull/91) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
+5. 🗣 Commented on [#45](https://github.com/etorreborre/specs2-cats/issues/45) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
 <!--END_SECTION:activity-->
 
 </details>
