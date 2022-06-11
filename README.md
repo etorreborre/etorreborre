@@ -71,9 +71,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6575](https://github.com/commercialhaskell/stackage/issues/6575) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
-2. 🗣 Commented on [#854](https://github.com/haskell/aeson/issues/854) in [haskell/aeson](https://github.com/haskell/aeson)
-3. 💪 Opened PR [#167](https://github.com/zfoh/zfoh.ch/pull/167) in [zfoh/zfoh.ch](https://github.com/zfoh/zfoh.ch)
-4. 🗣 Commented on [#45](https://github.com/etorreborre/specs2-cats/issues/45) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
+2. 🗣 Commented on [#6575](https://github.com/commercialhaskell/stackage/issues/6575) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
+3. 🗣 Commented on [#854](https://github.com/haskell/aeson/issues/854) in [haskell/aeson](https://github.com/haskell/aeson)
+4. 💪 Opened PR [#167](https://github.com/zfoh/zfoh.ch/pull/167) in [zfoh/zfoh.ch](https://github.com/zfoh/zfoh.ch)
 5. 🗣 Commented on [#45](https://github.com/etorreborre/specs2-cats/issues/45) in [etorreborre/specs2-cats](https://github.com/etorreborre/specs2-cats)
 <!--END_SECTION:activity-->
 
