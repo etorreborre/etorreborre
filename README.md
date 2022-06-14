@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1082](https://github.com/etorreborre/specs2/pull/1082) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🗣 Commented on [#1085](https://github.com/etorreborre/specs2/issues/1085) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🎉 Merged PR [#1085](https://github.com/etorreborre/specs2/pull/1085) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🗣 Commented on [#6575](https://github.com/commercialhaskell/stackage/issues/6575) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
-5. 🗣 Commented on [#6575](https://github.com/commercialhaskell/stackage/issues/6575) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
+1. 🗣 Commented on [#1086](https://github.com/etorreborre/specs2/issues/1086) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#1086](https://github.com/etorreborre/specs2/pull/1086) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🎉 Merged PR [#1082](https://github.com/etorreborre/specs2/pull/1082) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🗣 Commented on [#1085](https://github.com/etorreborre/specs2/issues/1085) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#1085](https://github.com/etorreborre/specs2/pull/1085) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
