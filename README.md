@@ -71,10 +71,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6709](https://github.com/commercialhaskell/stackage/issues/6709) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
-2. 🗣 Commented on [#6575](https://github.com/commercialhaskell/stackage/issues/6575) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
+2. 🗣 Commented on [#6709](https://github.com/commercialhaskell/stackage/issues/6709) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
 3. 🗣 Commented on [#6575](https://github.com/commercialhaskell/stackage/issues/6575) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
-4. 💪 Opened PR [#6709](https://github.com/commercialhaskell/stackage/pull/6709) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
-5. 🎉 Merged PR [#1099](https://github.com/etorreborre/specs2/pull/1099) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🗣 Commented on [#6575](https://github.com/commercialhaskell/stackage/issues/6575) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
+5. 💪 Opened PR [#6709](https://github.com/commercialhaskell/stackage/pull/6709) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
 <!--END_SECTION:activity-->
 
 </details>
