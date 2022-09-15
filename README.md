@@ -73,8 +73,8 @@
 1. 🗣 Commented on [#6709](https://github.com/commercialhaskell/stackage/issues/6709) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
 2. 🗣 Commented on [#6709](https://github.com/commercialhaskell/stackage/issues/6709) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
 3. 🗣 Commented on [#6709](https://github.com/commercialhaskell/stackage/issues/6709) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
-4. 🗣 Commented on [#6575](https://github.com/commercialhaskell/stackage/issues/6575) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
-5. 🗣 Commented on [#6575](https://github.com/commercialhaskell/stackage/issues/6575) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
+4. 🗣 Commented on [#6709](https://github.com/commercialhaskell/stackage/issues/6709) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
+5. 🗣 Commented on [#6709](https://github.com/commercialhaskell/stackage/issues/6709) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
 <!--END_SECTION:activity-->
 
 </details>
