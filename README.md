@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1107](https://github.com/etorreborre/specs2/pull/1107) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🎉 Merged PR [#1109](https://github.com/etorreborre/specs2/pull/1109) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1109](https://github.com/etorreborre/specs2/issues/1109) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#1108](https://github.com/etorreborre/specs2/pull/1108) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#1106](https://github.com/etorreborre/specs2/pull/1106) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🎉 Merged PR [#151](https://github.com/atnos-org/origami/pull/151) in [atnos-org/origami](https://github.com/atnos-org/origami)
+2. 🎉 Merged PR [#149](https://github.com/atnos-org/origami/pull/149) in [atnos-org/origami](https://github.com/atnos-org/origami)
+3. 🎉 Merged PR [#145](https://github.com/atnos-org/origami/pull/145) in [atnos-org/origami](https://github.com/atnos-org/origami)
+4. 🎉 Merged PR [#143](https://github.com/atnos-org/origami/pull/143) in [atnos-org/origami](https://github.com/atnos-org/origami)
+5. 🎉 Merged PR [#142](https://github.com/atnos-org/origami/pull/142) in [atnos-org/origami](https://github.com/atnos-org/origami)
 <!--END_SECTION:activity-->
 
 </details>
