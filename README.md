@@ -72,9 +72,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1111](https://github.com/etorreborre/specs2/issues/1111) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 2. 🗣 Commented on [#1111](https://github.com/etorreborre/specs2/issues/1111) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🎉 Merged PR [#151](https://github.com/atnos-org/origami/pull/151) in [atnos-org/origami](https://github.com/atnos-org/origami)
-4. 🎉 Merged PR [#149](https://github.com/atnos-org/origami/pull/149) in [atnos-org/origami](https://github.com/atnos-org/origami)
-5. 🎉 Merged PR [#145](https://github.com/atnos-org/origami/pull/145) in [atnos-org/origami](https://github.com/atnos-org/origami)
+3. 🗣 Commented on [#1111](https://github.com/etorreborre/specs2/issues/1111) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🎉 Merged PR [#151](https://github.com/atnos-org/origami/pull/151) in [atnos-org/origami](https://github.com/atnos-org/origami)
+5. 🎉 Merged PR [#149](https://github.com/atnos-org/origami/pull/149) in [atnos-org/origami](https://github.com/atnos-org/origami)
 <!--END_SECTION:activity-->
 
 </details>
