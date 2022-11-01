@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1112](https://github.com/etorreborre/specs2/issues/1112) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🎉 Merged PR [#1110](https://github.com/etorreborre/specs2/pull/1110) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1112](https://github.com/etorreborre/specs2/issues/1112) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🗣 Commented on [#1113](https://github.com/etorreborre/specs2/issues/1113) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1112](https://github.com/etorreborre/specs2/issues/1112) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🎉 Merged PR [#1110](https://github.com/etorreborre/specs2/pull/1110) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 4. 🗣 Commented on [#1112](https://github.com/etorreborre/specs2/issues/1112) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#1112](https://github.com/etorreborre/specs2/pull/1112) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🗣 Commented on [#1112](https://github.com/etorreborre/specs2/issues/1112) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
