@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/etorreborre/rust-edits/issues/1) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
-2. 🗣 Commented on [#1](https://github.com/etorreborre/rust-edits/issues/1) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
-3. 🗣 Commented on [#1116](https://github.com/etorreborre/specs2/issues/1116) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#1](https://github.com/etorreborre/rust-edits/pull/1) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
-5. 🗣 Commented on [#1](https://github.com/etorreborre/rust-edits/issues/1) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
+1. 🎉 Merged PR [#1116](https://github.com/etorreborre/specs2/pull/1116) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1116](https://github.com/etorreborre/specs2/issues/1116) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#1](https://github.com/etorreborre/rust-edits/issues/1) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
+4. 🗣 Commented on [#1](https://github.com/etorreborre/rust-edits/issues/1) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
+5. 🗣 Commented on [#1116](https://github.com/etorreborre/specs2/issues/1116) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
