@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1116](https://github.com/etorreborre/specs2/pull/1116) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🗣 Commented on [#1116](https://github.com/etorreborre/specs2/issues/1116) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1](https://github.com/etorreborre/rust-edits/issues/1) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
+1. 🗣 Commented on [#65](https://github.com/Functional-Programming-Slack/community/issues/65) in [Functional-Programming-Slack/community](https://github.com/Functional-Programming-Slack/community)
+2. 🎉 Merged PR [#1116](https://github.com/etorreborre/specs2/pull/1116) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#1116](https://github.com/etorreborre/specs2/issues/1116) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 4. 🗣 Commented on [#1](https://github.com/etorreborre/rust-edits/issues/1) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
-5. 🗣 Commented on [#1116](https://github.com/etorreborre/specs2/issues/1116) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🗣 Commented on [#1](https://github.com/etorreborre/rust-edits/issues/1) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
 <!--END_SECTION:activity-->
 
 </details>
