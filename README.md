@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#161](https://github.com/build-trust/ockam-contributors/pull/161) in [build-trust/ockam-contributors](https://github.com/build-trust/ockam-contributors)
-2. 🗣 Commented on [#3732](https://github.com/build-trust/ockam/issues/3732) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. ❌ Closed PR [#2](https://github.com/etorreborre/rust-edits/pull/2) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
-4. ❌ Closed PR [#3](https://github.com/etorreborre/rust-edits/pull/3) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
-5. 🗣 Commented on [#1120](https://github.com/etorreborre/specs2/issues/1120) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🗣 Commented on [#3880](https://github.com/build-trust/ockam/issues/3880) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 💪 Opened PR [#3880](https://github.com/build-trust/ockam/pull/3880) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 💪 Opened PR [#161](https://github.com/build-trust/ockam-contributors/pull/161) in [build-trust/ockam-contributors](https://github.com/build-trust/ockam-contributors)
+4. 🗣 Commented on [#3732](https://github.com/build-trust/ockam/issues/3732) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. ❌ Closed PR [#2](https://github.com/etorreborre/rust-edits/pull/2) in [etorreborre/rust-edits](https://github.com/etorreborre/rust-edits)
 <!--END_SECTION:activity-->
 
 </details>
