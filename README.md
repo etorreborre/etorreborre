@@ -70,10 +70,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3880](https://github.com/build-trust/ockam/issues/3880) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🗣 Commented on [#161](https://github.com/build-trust/ockam-contributors/issues/161) in [build-trust/ockam-contributors](https://github.com/build-trust/ockam-contributors)
-3. 🗣 Commented on [#161](https://github.com/build-trust/ockam-contributors/issues/161) in [build-trust/ockam-contributors](https://github.com/build-trust/ockam-contributors)
-4. 🗣 Commented on [#3880](https://github.com/build-trust/ockam/issues/3880) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🗣 Commented on [#1117](https://github.com/etorreborre/specs2/issues/1117) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1117](https://github.com/etorreborre/specs2/issues/1117) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#3880](https://github.com/build-trust/ockam/issues/3880) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#161](https://github.com/build-trust/ockam-contributors/issues/161) in [build-trust/ockam-contributors](https://github.com/build-trust/ockam-contributors)
 5. 🗣 Commented on [#161](https://github.com/build-trust/ockam-contributors/issues/161) in [build-trust/ockam-contributors](https://github.com/build-trust/ockam-contributors)
 <!--END_SECTION:activity-->
 
