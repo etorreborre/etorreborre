@@ -1,7 +1,5 @@
 ### Hi I'm Eric 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/etorreborre?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%etorreborre&screen_name=etorreborre)
-
 ## I am a senior software developer
 
 - 💻 I'm a big fan of Functional Programming as a way to deliver correct software
@@ -9,22 +7,20 @@
 - 💺 I favor working remotely, this can be _very_ effective
 - 🎷 Besides my keyboard I regularly exercise my fingers on my saxophone
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="etorreborre | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="etorreborre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Twitter Follow](https://img.shields.io/twitter/follow/etorreborre?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%etorreborre&screen_name=etorreborre)
+
+[<img align="left" alt="etorreborre | Mastodon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/432px-Mastodon_Logotype_%28Simple%29.svg.png?20170726152344" />][mastodon]
+[<img align="left" alt="etorreborre | LinkedIn" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/582px-LinkedIn_Logo.svg.png?20170711102837" />][linkedin]
 
 <br />
 
-### Languages and Tools:
+### Languages
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][https://code.visualstudio.com/]
-[<img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][https://www.haskell.org/]
-[<img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][https://www.scala-lang.org/]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][https://graphql.org/]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][https://www.postgresql.org/]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][https://git-scm.com/]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][https://github.com/]
+[<img align="left" alt="Rust" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/212px-Rust_programming_language_black_logo.svg.png?20220508043311" />](https://www.haskell.org/)
+[<img align="left" alt="Haskell" width="60px" src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064c5652d40eda2eb7a838_33ac2334.png" />](https://www.haskell.org/)
+[<img align="left" alt="Scala" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/640px-Scala-full-color.svg.png" />](https://www.scala-lang.org/)
 
 <br />
 <br />
@@ -89,4 +85,5 @@
 [specs2]: https://github.com/etorreborre/specs2
 [registry]: https://github.com/etorreborre/registry
 [twitter]: https://twitter.com/etorreborre
+[mastodon]: https://fosstodon.org/@etorreborre
 [linkedin]: https://linkedin.com/in/etorreborre
