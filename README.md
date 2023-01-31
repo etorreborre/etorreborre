@@ -68,9 +68,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4156](https://github.com/build-trust/ockam/issues/4156) in [build-trust/ockam](https://github.com/build-trust/ockam)
 2. 🗣 Commented on [#4156](https://github.com/build-trust/ockam/issues/4156) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🗣 Commented on [#4142](https://github.com/build-trust/ockam/issues/4142) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🗣 Commented on [#4156](https://github.com/build-trust/ockam/issues/4156) in [build-trust/ockam](https://github.com/build-trust/ockam)
 4. 🗣 Commented on [#4142](https://github.com/build-trust/ockam/issues/4142) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🗣 Commented on [#1130](https://github.com/etorreborre/specs2/issues/1130) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🗣 Commented on [#4142](https://github.com/build-trust/ockam/issues/4142) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
