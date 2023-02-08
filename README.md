@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4199](https://github.com/build-trust/ockam/issues/4199) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. ❗️ Closed issue [#1090](https://github.com/etorreborre/specs2/issues/1090) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1090](https://github.com/etorreborre/specs2/issues/1090) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. ❗️ Opened issue [#4195](https://github.com/build-trust/ockam/issues/4195) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. ❗️ Opened issue [#4193](https://github.com/build-trust/ockam/issues/4193) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🗣 Commented on [#4188](https://github.com/build-trust/ockam/issues/4188) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#4199](https://github.com/build-trust/ockam/issues/4199) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. ❗️ Closed issue [#1090](https://github.com/etorreborre/specs2/issues/1090) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🗣 Commented on [#1090](https://github.com/etorreborre/specs2/issues/1090) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. ❗️ Opened issue [#4195](https://github.com/build-trust/ockam/issues/4195) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
