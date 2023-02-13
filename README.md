@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/build-trust/ockam-contributors/issues/186) in [build-trust/ockam-contributors](https://github.com/build-trust/ockam-contributors)
-2. 💪 Opened PR [#186](https://github.com/build-trust/ockam-contributors/pull/186) in [build-trust/ockam-contributors](https://github.com/build-trust/ockam-contributors)
-3. ❌ Closed PR [#305](https://github.com/hedgehogqa/haskell-hedgehog/pull/305) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
-4. 🗣 Commented on [#305](https://github.com/hedgehogqa/haskell-hedgehog/issues/305) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
-5. 🗣 Commented on [#307](https://github.com/hedgehogqa/haskell-hedgehog/issues/307) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
+1. 🎉 Merged PR [#4232](https://github.com/build-trust/ockam/pull/4232) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#186](https://github.com/build-trust/ockam-contributors/issues/186) in [build-trust/ockam-contributors](https://github.com/build-trust/ockam-contributors)
+3. 💪 Opened PR [#186](https://github.com/build-trust/ockam-contributors/pull/186) in [build-trust/ockam-contributors](https://github.com/build-trust/ockam-contributors)
+4. ❌ Closed PR [#305](https://github.com/hedgehogqa/haskell-hedgehog/pull/305) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
+5. 🗣 Commented on [#305](https://github.com/hedgehogqa/haskell-hedgehog/issues/305) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
 <!--END_SECTION:activity-->
 
 </details>
