@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#138](https://github.com/FiloSottile/yubikey-agent/issues/138) in [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent)
-2. 🎉 Merged PR [#4289](https://github.com/build-trust/ockam/pull/4289) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 💪 Opened PR [#4289](https://github.com/build-trust/ockam/pull/4289) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🎉 Merged PR [#4285](https://github.com/build-trust/ockam/pull/4285) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 💪 Opened PR [#4285](https://github.com/build-trust/ockam/pull/4285) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🗣 Commented on [#4280](https://github.com/build-trust/ockam/issues/4280) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. ❗️ Opened issue [#138](https://github.com/FiloSottile/yubikey-agent/issues/138) in [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent)
+3. 🎉 Merged PR [#4289](https://github.com/build-trust/ockam/pull/4289) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 💪 Opened PR [#4289](https://github.com/build-trust/ockam/pull/4289) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🎉 Merged PR [#4285](https://github.com/build-trust/ockam/pull/4285) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
