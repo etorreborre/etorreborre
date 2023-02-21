@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4293](https://github.com/build-trust/ockam/pull/4293) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🗣 Commented on [#4280](https://github.com/build-trust/ockam/issues/4280) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. ❗️ Opened issue [#138](https://github.com/FiloSottile/yubikey-agent/issues/138) in [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent)
-4. 🎉 Merged PR [#4289](https://github.com/build-trust/ockam/pull/4289) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 💪 Opened PR [#4289](https://github.com/build-trust/ockam/pull/4289) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🗣 Commented on [#3841](https://github.com/build-trust/ockam/issues/3841) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#3816](https://github.com/build-trust/ockam/issues/3816) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🗣 Commented on [#3786](https://github.com/build-trust/ockam/issues/3786) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#2954](https://github.com/build-trust/ockam/issues/2954) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🗣 Commented on [#2484](https://github.com/build-trust/ockam/issues/2484) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
