@@ -68,9 +68,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3980](https://github.com/build-trust/ockam/issues/3980) in [build-trust/ockam](https://github.com/build-trust/ockam)
 2. 🗣 Commented on [#3980](https://github.com/build-trust/ockam/issues/3980) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. ❗️ Closed issue [#4245](https://github.com/build-trust/ockam/issues/4245) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🎉 Merged PR [#4286](https://github.com/build-trust/ockam/pull/4286) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. ❗️ Closed issue [#1969](https://github.com/build-trust/ockam/issues/1969) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🗣 Commented on [#3980](https://github.com/build-trust/ockam/issues/3980) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. ❗️ Closed issue [#4245](https://github.com/build-trust/ockam/issues/4245) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🎉 Merged PR [#4286](https://github.com/build-trust/ockam/pull/4286) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
