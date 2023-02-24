@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#307](https://github.com/hedgehogqa/haskell-hedgehog/pull/307) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
-2. 🗣 Commented on [#307](https://github.com/hedgehogqa/haskell-hedgehog/issues/307) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
-3. 🎉 Merged PR [#4332](https://github.com/build-trust/ockam/pull/4332) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🎉 Merged PR [#4280](https://github.com/build-trust/ockam/pull/4280) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🗣 Commented on [#17](https://github.com/tychedelia/kafka-protocol-rs/issues/17) in [tychedelia/kafka-protocol-rs](https://github.com/tychedelia/kafka-protocol-rs)
+1. 🗣 Commented on [#4228](https://github.com/build-trust/ockam/issues/4228) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#4304](https://github.com/build-trust/ockam/issues/4304) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. ❌ Closed PR [#307](https://github.com/hedgehogqa/haskell-hedgehog/pull/307) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
+4. 🗣 Commented on [#307](https://github.com/hedgehogqa/haskell-hedgehog/issues/307) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
+5. 🎉 Merged PR [#4332](https://github.com/build-trust/ockam/pull/4332) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
