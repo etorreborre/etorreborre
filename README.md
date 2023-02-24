@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/tychedelia/kafka-protocol-rs/issues/17) in [tychedelia/kafka-protocol-rs](https://github.com/tychedelia/kafka-protocol-rs)
-2. 🗣 Commented on [#4304](https://github.com/build-trust/ockam/issues/4304) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🗣 Commented on [#4284](https://github.com/build-trust/ockam/issues/4284) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🎉 Merged PR [#4323](https://github.com/build-trust/ockam/pull/4323) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#4320](https://github.com/build-trust/ockam/pull/4320) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🎉 Merged PR [#4280](https://github.com/build-trust/ockam/pull/4280) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#17](https://github.com/tychedelia/kafka-protocol-rs/issues/17) in [tychedelia/kafka-protocol-rs](https://github.com/tychedelia/kafka-protocol-rs)
+3. 🗣 Commented on [#4304](https://github.com/build-trust/ockam/issues/4304) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#4284](https://github.com/build-trust/ockam/issues/4284) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🎉 Merged PR [#4323](https://github.com/build-trust/ockam/pull/4323) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
