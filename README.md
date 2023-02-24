@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4193](https://github.com/build-trust/ockam/issues/4193) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🗣 Commented on [#4228](https://github.com/build-trust/ockam/issues/4228) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🗣 Commented on [#4304](https://github.com/build-trust/ockam/issues/4304) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. ❌ Closed PR [#307](https://github.com/hedgehogqa/haskell-hedgehog/pull/307) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
-5. 🗣 Commented on [#307](https://github.com/hedgehogqa/haskell-hedgehog/issues/307) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
+1. 🎉 Merged PR [#4304](https://github.com/build-trust/ockam/pull/4304) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#4193](https://github.com/build-trust/ockam/issues/4193) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🗣 Commented on [#4228](https://github.com/build-trust/ockam/issues/4228) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#4304](https://github.com/build-trust/ockam/issues/4304) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. ❌ Closed PR [#307](https://github.com/hedgehogqa/haskell-hedgehog/pull/307) in [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)
 <!--END_SECTION:activity-->
 
 </details>
