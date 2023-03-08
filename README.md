@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4284](https://github.com/build-trust/ockam/issues/4284) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🎉 Merged PR [#4349](https://github.com/build-trust/ockam/pull/4349) in [build-trust/ockam](https://github.com/build-trust/ockam)
 2. 🗣 Commented on [#4284](https://github.com/build-trust/ockam/issues/4284) in [build-trust/ockam](https://github.com/build-trust/ockam)
 3. 🗣 Commented on [#4284](https://github.com/build-trust/ockam/issues/4284) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🗣 Commented on [#4349](https://github.com/build-trust/ockam/issues/4349) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🗣 Commented on [#4396](https://github.com/build-trust/ockam/issues/4396) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#4284](https://github.com/build-trust/ockam/issues/4284) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🗣 Commented on [#4349](https://github.com/build-trust/ockam/issues/4349) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
