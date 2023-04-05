@@ -67,10 +67,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4583](https://github.com/build-trust/ockam/issues/4583) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🎉 Merged PR [#4594](https://github.com/build-trust/ockam/pull/4594) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🎉 Merged PR [#4593](https://github.com/build-trust/ockam/pull/4593) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🎉 Merged PR [#4539](https://github.com/build-trust/ockam/pull/4539) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#4589](https://github.com/build-trust/ockam/pull/4589) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#4583](https://github.com/build-trust/ockam/issues/4583) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🎉 Merged PR [#4594](https://github.com/build-trust/ockam/pull/4594) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🎉 Merged PR [#4593](https://github.com/build-trust/ockam/pull/4593) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🎉 Merged PR [#4539](https://github.com/build-trust/ockam/pull/4539) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
