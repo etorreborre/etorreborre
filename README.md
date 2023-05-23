@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4876](https://github.com/build-trust/ockam/issues/4876) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🗣 Commented on [#4893](https://github.com/build-trust/ockam/issues/4893) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🎉 Merged PR [#4969](https://github.com/build-trust/ockam/pull/4969) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🎉 Merged PR [#4968](https://github.com/build-trust/ockam/pull/4968) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🗣 Commented on [#4962](https://github.com/build-trust/ockam/issues/4962) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. ❗️ Closed issue [#4928](https://github.com/build-trust/ockam/issues/4928) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🎉 Merged PR [#4958](https://github.com/build-trust/ockam/pull/4958) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. ❗️ Opened issue [#4973](https://github.com/build-trust/ockam/issues/4973) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. ❗️ Opened issue [#4972](https://github.com/build-trust/ockam/issues/4972) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🗣 Commented on [#4876](https://github.com/build-trust/ockam/issues/4876) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
