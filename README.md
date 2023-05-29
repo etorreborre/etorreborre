@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5017](https://github.com/build-trust/ockam/issues/5017) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🎉 Merged PR [#5010](https://github.com/build-trust/ockam/pull/5010) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🎉 Merged PR [#1154](https://github.com/etorreborre/specs2/pull/1154) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#1155](https://github.com/etorreborre/specs2/pull/1155) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#5008](https://github.com/build-trust/ockam/pull/5008) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. ❗️ Closed issue [#4918](https://github.com/build-trust/ockam/issues/4918) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🎉 Merged PR [#4960](https://github.com/build-trust/ockam/pull/4960) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. ❗️ Opened issue [#5017](https://github.com/build-trust/ockam/issues/5017) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🎉 Merged PR [#5010](https://github.com/build-trust/ockam/pull/5010) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🎉 Merged PR [#1154](https://github.com/etorreborre/specs2/pull/1154) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
