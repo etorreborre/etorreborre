@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3231](https://github.com/scalameta/scalameta/issues/3231) in [scalameta/scalameta](https://github.com/scalameta/scalameta)
-2. 🗣 Commented on [#5125](https://github.com/build-trust/ockam/issues/5125) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. ❌ Closed PR [#1169](https://github.com/etorreborre/specs2/pull/1169) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🗣 Commented on [#1169](https://github.com/etorreborre/specs2/issues/1169) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. ❗ Opened issue [#3572](https://github.com/scalameta/scalafmt/issues/3572) in [scalameta/scalafmt](https://github.com/scalameta/scalafmt)
+1. ❗ Opened issue [#5228](https://github.com/build-trust/ockam/issues/5228) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. ❗ Opened issue [#3231](https://github.com/scalameta/scalameta/issues/3231) in [scalameta/scalameta](https://github.com/scalameta/scalameta)
+3. 🗣 Commented on [#5125](https://github.com/build-trust/ockam/issues/5125) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. ❌ Closed PR [#1169](https://github.com/etorreborre/specs2/pull/1169) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🗣 Commented on [#1169](https://github.com/etorreborre/specs2/issues/1169) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
