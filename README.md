@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fix for #1183: error in JsonMatchers](https://github.com/etorreborre/specs2/releases/tag/SPECS2-4.20.1) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🗣 Commented on [#1183](https://github.com/etorreborre/specs2/issues/1183#issuecomment-1666530471) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🎉 Merged PR [#1184](https://github.com/etorreborre/specs2/pull/1184) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#5489](https://github.com/build-trust/ockam/pull/5489) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#5490](https://github.com/build-trust/ockam/pull/5490) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🔒 Closed issue [#1183](https://github.com/etorreborre/specs2/issues/1183) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1183](https://github.com/etorreborre/specs2/issues/1183#issuecomment-1667820480) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🚀 Published release [Fix for #1183: error in JsonMatchers](https://github.com/etorreborre/specs2/releases/tag/SPECS2-4.20.1) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🗣 Commented on [#1183](https://github.com/etorreborre/specs2/issues/1183#issuecomment-1666530471) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#1184](https://github.com/etorreborre/specs2/pull/1184) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
