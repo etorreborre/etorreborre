@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5568](https://github.com/build-trust/ockam/pull/5568) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🎉 Merged PR [#5659](https://github.com/build-trust/ockam/pull/5659) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🎉 Merged PR [#5669](https://github.com/build-trust/ockam/pull/5669) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🚀 Published release [Maintenance release](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.3.2) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🚀 Published release [Fix for an inconsistent behavior in forms props](https://github.com/etorreborre/specs2/releases/tag/SPECS2-4.20.2) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🗣 Commented on [#5670](https://github.com/build-trust/ockam/pull/5670#issuecomment-1686431747) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#5671](https://github.com/build-trust/ockam/pull/5671#issuecomment-1686431423) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🎉 Merged PR [#5568](https://github.com/build-trust/ockam/pull/5568) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🎉 Merged PR [#5659](https://github.com/build-trust/ockam/pull/5659) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🎉 Merged PR [#5669](https://github.com/build-trust/ockam/pull/5669) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
