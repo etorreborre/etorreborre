@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Maintenance release](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.3.2) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🚀 Published release [Fix for an inconsistent behavior in forms props](https://github.com/etorreborre/specs2/releases/tag/SPECS2-4.20.2) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1185](https://github.com/etorreborre/specs2/issues/1185#issuecomment-1673249478) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🔒 Closed issue [#1185](https://github.com/etorreborre/specs2/issues/1185) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🔒 Closed issue [#1183](https://github.com/etorreborre/specs2/issues/1183) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🎉 Merged PR [#5659](https://github.com/build-trust/ockam/pull/5659) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🎉 Merged PR [#5669](https://github.com/build-trust/ockam/pull/5669) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🚀 Published release [Maintenance release](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.3.2) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🚀 Published release [Fix for an inconsistent behavior in forms props](https://github.com/etorreborre/specs2/releases/tag/SPECS2-4.20.2) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🗣 Commented on [#1185](https://github.com/etorreborre/specs2/issues/1185#issuecomment-1673249478) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
