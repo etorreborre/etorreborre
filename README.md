@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/etorreborre/floxpkgs/pull/1) in [etorreborre/floxpkgs](https://github.com/etorreborre/floxpkgs)
-2. 💪 Opened PR [#62](https://github.com/build-trust/ockam-documentation/pull/62) in [build-trust/ockam-documentation](https://github.com/build-trust/ockam-documentation)
-3. 🎉 Merged PR [#6012](https://github.com/build-trust/ockam/pull/6012) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 💪 Opened PR [#6012](https://github.com/build-trust/ockam/pull/6012) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🗣 Commented on [#274](https://github.com/build-trust/ockam-contributors/pull/274#issuecomment-1726042686) in [build-trust/ockam-contributors](https://github.com/build-trust/ockam-contributors)
+1. ❗ Opened issue [#7898](https://github.com/tauri-apps/tauri/issues/7898) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+2. 🎉 Merged PR [#1](https://github.com/etorreborre/floxpkgs/pull/1) in [etorreborre/floxpkgs](https://github.com/etorreborre/floxpkgs)
+3. 💪 Opened PR [#62](https://github.com/build-trust/ockam-documentation/pull/62) in [build-trust/ockam-documentation](https://github.com/build-trust/ockam-documentation)
+4. 🎉 Merged PR [#6012](https://github.com/build-trust/ockam/pull/6012) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 💪 Opened PR [#6012](https://github.com/build-trust/ockam/pull/6012) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
