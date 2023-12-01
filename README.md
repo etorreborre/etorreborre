@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7005](https://github.com/build-trust/ockam/pull/7005) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 💪 Opened PR [#7001](https://github.com/build-trust/ockam/pull/7001) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 💪 Opened PR [#6991](https://github.com/build-trust/ockam/pull/6991) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🗣 Commented on [#1207](https://github.com/etorreborre/specs2/issues/1207#issuecomment-1830442030) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🔒 Closed issue [#1207](https://github.com/etorreborre/specs2/issues/1207) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🗣 Commented on [#7006](https://github.com/build-trust/ockam/pull/7006#issuecomment-1835815194) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 💪 Opened PR [#7005](https://github.com/build-trust/ockam/pull/7005) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 💪 Opened PR [#7001](https://github.com/build-trust/ockam/pull/7001) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 💪 Opened PR [#6991](https://github.com/build-trust/ockam/pull/6991) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🗣 Commented on [#1207](https://github.com/etorreborre/specs2/issues/1207#issuecomment-1830442030) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
