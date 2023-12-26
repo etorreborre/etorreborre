@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/chshersh/zbg/issues/26#issuecomment-1869448244) in [chshersh/zbg](https://github.com/chshersh/zbg)
-2. 🗣 Commented on [#7221](https://github.com/build-trust/ockam/issues/7221#issuecomment-1869152921) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🗣 Commented on [#26](https://github.com/chshersh/zbg/issues/26#issuecomment-1869096241) in [chshersh/zbg](https://github.com/chshersh/zbg)
-4. 💪 Opened PR [#32](https://github.com/chshersh/zbg/pull/32) in [chshersh/zbg](https://github.com/chshersh/zbg)
-5. 🎉 Merged PR [#7217](https://github.com/build-trust/ockam/pull/7217) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🗣 Commented on [#32](https://github.com/chshersh/zbg/pull/32#issuecomment-1869541896) in [chshersh/zbg](https://github.com/chshersh/zbg)
+2. 🗣 Commented on [#26](https://github.com/chshersh/zbg/issues/26#issuecomment-1869448244) in [chshersh/zbg](https://github.com/chshersh/zbg)
+3. 🗣 Commented on [#7221](https://github.com/build-trust/ockam/issues/7221#issuecomment-1869152921) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#26](https://github.com/chshersh/zbg/issues/26#issuecomment-1869096241) in [chshersh/zbg](https://github.com/chshersh/zbg)
+5. 💪 Opened PR [#32](https://github.com/chshersh/zbg/pull/32) in [chshersh/zbg](https://github.com/chshersh/zbg)
 <!--END_SECTION:activity-->
 
 </details>
