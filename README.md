@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/chshersh/zbg/issues/33#issuecomment-1872130555) in [chshersh/zbg](https://github.com/chshersh/zbg)
-2. 🔒 Closed issue [#33](https://github.com/chshersh/zbg/issues/33) in [chshersh/zbg](https://github.com/chshersh/zbg)
-3. ❗ Opened issue [#33](https://github.com/chshersh/zbg/issues/33) in [chshersh/zbg](https://github.com/chshersh/zbg)
-4. 🗣 Commented on [#32](https://github.com/chshersh/zbg/pull/32#issuecomment-1869612695) in [chshersh/zbg](https://github.com/chshersh/zbg)
-5. 🗣 Commented on [#32](https://github.com/chshersh/zbg/pull/32#issuecomment-1869541896) in [chshersh/zbg](https://github.com/chshersh/zbg)
+1. 💪 Opened PR [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+2. 🗣 Commented on [#33](https://github.com/chshersh/zbg/issues/33#issuecomment-1872130555) in [chshersh/zbg](https://github.com/chshersh/zbg)
+3. 🔒 Closed issue [#33](https://github.com/chshersh/zbg/issues/33) in [chshersh/zbg](https://github.com/chshersh/zbg)
+4. ❗ Opened issue [#33](https://github.com/chshersh/zbg/issues/33) in [chshersh/zbg](https://github.com/chshersh/zbg)
+5. 🗣 Commented on [#32](https://github.com/chshersh/zbg/pull/32#issuecomment-1869612695) in [chshersh/zbg](https://github.com/chshersh/zbg)
 <!--END_SECTION:activity-->
 
 </details>
