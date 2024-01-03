@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-2. 🗣 Commented on [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629#issuecomment-1873299768) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-3. 💪 Opened PR [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-4. 🗣 Commented on [#33](https://github.com/chshersh/zbg/issues/33#issuecomment-1872130555) in [chshersh/zbg](https://github.com/chshersh/zbg)
-5. 🔒 Closed issue [#33](https://github.com/chshersh/zbg/issues/33) in [chshersh/zbg](https://github.com/chshersh/zbg)
+1. 🔒 Closed issue [#1209](https://github.com/etorreborre/specs2/issues/1209) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. ❌ Closed PR [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+3. 🗣 Commented on [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629#issuecomment-1873299768) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+4. 💪 Opened PR [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+5. 🗣 Commented on [#33](https://github.com/chshersh/zbg/issues/33#issuecomment-1872130555) in [chshersh/zbg](https://github.com/chshersh/zbg)
 <!--END_SECTION:activity-->
 
 </details>
