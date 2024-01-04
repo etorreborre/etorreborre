@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1209](https://github.com/etorreborre/specs2/issues/1209) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. ❌ Closed PR [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-3. 🗣 Commented on [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629#issuecomment-1873299768) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-4. 💪 Opened PR [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-5. 🗣 Commented on [#33](https://github.com/chshersh/zbg/issues/33#issuecomment-1872130555) in [chshersh/zbg](https://github.com/chshersh/zbg)
+1. 🗣 Commented on [#1183](https://github.com/etorreborre/specs2/issues/1183#issuecomment-1877025400) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🚀 Published release [Maintenance release](https://github.com/etorreborre/specs2/releases/tag/SPECS2-4.20.4) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🚀 Published release [Mainteance release](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.4.2) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🔒 Closed issue [#1209](https://github.com/etorreborre/specs2/issues/1209) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. ❌ Closed PR [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 <!--END_SECTION:activity-->
 
 </details>
