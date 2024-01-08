@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7038](https://github.com/build-trust/ockam/pull/7038) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🗣 Commented on [#7038](https://github.com/build-trust/ockam/pull/7038#issuecomment-1880662922) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🗣 Commented on [#7091](https://github.com/build-trust/ockam/pull/7091#issuecomment-1880662442) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. ❌ Closed PR [#7091](https://github.com/build-trust/ockam/pull/7091) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. ❗ Opened issue [#7366](https://github.com/build-trust/ockam/issues/7366) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🎉 Merged PR [#7090](https://github.com/build-trust/ockam/pull/7090) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. ❌ Closed PR [#7038](https://github.com/build-trust/ockam/pull/7038) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🗣 Commented on [#7038](https://github.com/build-trust/ockam/pull/7038#issuecomment-1880662922) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#7091](https://github.com/build-trust/ockam/pull/7091#issuecomment-1880662442) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. ❌ Closed PR [#7091](https://github.com/build-trust/ockam/pull/7091) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
