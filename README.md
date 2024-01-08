@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1183](https://github.com/etorreborre/specs2/issues/1183#issuecomment-1877025400) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🚀 Published release [Maintenance release](https://github.com/etorreborre/specs2/releases/tag/SPECS2-4.20.4) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🚀 Published release [Mainteance release](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.4.2) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🔒 Closed issue [#1209](https://github.com/etorreborre/specs2/issues/1209) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. ❌ Closed PR [#1629](https://github.com/rust-unofficial/awesome-rust/pull/1629) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+1. ❌ Closed PR [#7038](https://github.com/build-trust/ockam/pull/7038) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#7038](https://github.com/build-trust/ockam/pull/7038#issuecomment-1880662922) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🗣 Commented on [#7091](https://github.com/build-trust/ockam/pull/7091#issuecomment-1880662442) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. ❌ Closed PR [#7091](https://github.com/build-trust/ockam/pull/7091) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. ❗ Opened issue [#7366](https://github.com/build-trust/ockam/issues/7366) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
