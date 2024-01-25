@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7438](https://github.com/build-trust/ockam/pull/7438#issuecomment-1908686763) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🚀 Published release [Filter examples based on a TestSelector with sbt](https://github.com/etorreborre/specs2/releases/tag/SPECS-4.20.5) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🚀 Published release [Filter examples based on a TestSelector with sbt](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.5.1) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🗣 Commented on [#1216](https://github.com/etorreborre/specs2/pull/1216#issuecomment-1906665744) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#1217](https://github.com/etorreborre/specs2/pull/1217) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🔒 Closed issue [#7312](https://github.com/build-trust/ockam/issues/7312) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🎉 Merged PR [#7365](https://github.com/build-trust/ockam/pull/7365) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🎉 Merged PR [#7438](https://github.com/build-trust/ockam/pull/7438) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#7438](https://github.com/build-trust/ockam/pull/7438#issuecomment-1908686763) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🚀 Published release [Filter examples based on a TestSelector with sbt](https://github.com/etorreborre/specs2/releases/tag/SPECS-4.20.5) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
