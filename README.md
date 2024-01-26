@@ -66,7 +66,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7459](https://github.com/build-trust/ockam/pull/7459) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 💪 Opened PR [#7464](https://github.com/build-trust/ockam/pull/7464) in [build-trust/ockam](https://github.com/build-trust/ockam)
 2. 💪 Opened PR [#7460](https://github.com/build-trust/ockam/pull/7460) in [build-trust/ockam](https://github.com/build-trust/ockam)
 3. 💪 Opened PR [#7459](https://github.com/build-trust/ockam/pull/7459) in [build-trust/ockam](https://github.com/build-trust/ockam)
 4. 🎉 Merged PR [#7457](https://github.com/build-trust/ockam/pull/7457) in [build-trust/ockam](https://github.com/build-trust/ockam)
