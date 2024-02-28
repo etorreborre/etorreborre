@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7681](https://github.com/build-trust/ockam/pull/7681) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 💪 Opened PR [#7681](https://github.com/build-trust/ockam/pull/7681) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🎉 Merged PR [#7662](https://github.com/build-trust/ockam/pull/7662) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. ❗ Opened issue [#60](https://github.com/wesselt/bunq2ynab/issues/60) in [wesselt/bunq2ynab](https://github.com/wesselt/bunq2ynab)
-5. 🎉 Merged PR [#7676](https://github.com/build-trust/ockam/pull/7676) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 💪 Opened PR [#7684](https://github.com/build-trust/ockam/pull/7684) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🎉 Merged PR [#7681](https://github.com/build-trust/ockam/pull/7681) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 💪 Opened PR [#7681](https://github.com/build-trust/ockam/pull/7681) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🎉 Merged PR [#7662](https://github.com/build-trust/ockam/pull/7662) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. ❗ Opened issue [#60](https://github.com/wesselt/bunq2ynab/issues/60) in [wesselt/bunq2ynab](https://github.com/wesselt/bunq2ynab)
 <!--END_SECTION:activity-->
 
 </details>
