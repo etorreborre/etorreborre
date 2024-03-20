@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1149](https://github.com/flox/flox/pull/1149#issuecomment-2009194574) in [flox/flox](https://github.com/flox/flox)
-2. 🎉 Merged PR [#7768](https://github.com/build-trust/ockam/pull/7768) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🎉 Merged PR [#7769](https://github.com/build-trust/ockam/pull/7769) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🎉 Merged PR [#7770](https://github.com/build-trust/ockam/pull/7770) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#7747](https://github.com/build-trust/ockam/pull/7747) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🎉 Merged PR [#1226](https://github.com/etorreborre/specs2/pull/1226) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#1225](https://github.com/etorreborre/specs2/pull/1225) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#1149](https://github.com/flox/flox/pull/1149#issuecomment-2009194574) in [flox/flox](https://github.com/flox/flox)
+4. 🎉 Merged PR [#7768](https://github.com/build-trust/ockam/pull/7768) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🎉 Merged PR [#7769](https://github.com/build-trust/ockam/pull/7769) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
