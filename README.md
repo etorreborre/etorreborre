@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7793](https://github.com/build-trust/ockam/pull/7793) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 💪 Opened PR [#7792](https://github.com/build-trust/ockam/pull/7792) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🗣 Commented on [#4603](https://github.com/Normation/rudder/pull/4603#issuecomment-2010333578) in [Normation/rudder](https://github.com/Normation/rudder)
-4. 🎉 Merged PR [#1226](https://github.com/etorreborre/specs2/pull/1226) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#1225](https://github.com/etorreborre/specs2/pull/1225) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🎉 Merged PR [#7801](https://github.com/build-trust/ockam/pull/7801) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 💪 Opened PR [#7793](https://github.com/build-trust/ockam/pull/7793) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 💪 Opened PR [#7792](https://github.com/build-trust/ockam/pull/7792) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#4603](https://github.com/Normation/rudder/pull/4603#issuecomment-2010333578) in [Normation/rudder](https://github.com/Normation/rudder)
+5. 🎉 Merged PR [#1226](https://github.com/etorreborre/specs2/pull/1226) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
