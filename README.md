@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4932](https://github.com/unisonweb/unison/pull/4932#issuecomment-2106346807) in [unisonweb/unison](https://github.com/unisonweb/unison)
-2. 🗣 Commented on [#4932](https://github.com/unisonweb/unison/pull/4932#issuecomment-2106298529) in [unisonweb/unison](https://github.com/unisonweb/unison)
-3. 💪 Opened PR [#4932](https://github.com/unisonweb/unison/pull/4932) in [unisonweb/unison](https://github.com/unisonweb/unison)
-4. 💪 Opened PR [#8037](https://github.com/build-trust/ockam/pull/8037) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#8036](https://github.com/build-trust/ockam/pull/8036) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🗣 Commented on [#1237](https://github.com/etorreborre/specs2/issues/1237#issuecomment-2107270492) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#4932](https://github.com/unisonweb/unison/pull/4932#issuecomment-2106346807) in [unisonweb/unison](https://github.com/unisonweb/unison)
+3. 🗣 Commented on [#4932](https://github.com/unisonweb/unison/pull/4932#issuecomment-2106298529) in [unisonweb/unison](https://github.com/unisonweb/unison)
+4. 💪 Opened PR [#4932](https://github.com/unisonweb/unison/pull/4932) in [unisonweb/unison](https://github.com/unisonweb/unison)
+5. 💪 Opened PR [#8037](https://github.com/build-trust/ockam/pull/8037) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
