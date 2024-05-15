@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1237](https://github.com/etorreborre/specs2/issues/1237#issuecomment-2111692606) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🗣 Commented on [#4932](https://github.com/unisonweb/unison/pull/4932#issuecomment-2110345924) in [unisonweb/unison](https://github.com/unisonweb/unison)
-3. 🗣 Commented on [#4942](https://github.com/unisonweb/unison/issues/4942#issuecomment-2110342712) in [unisonweb/unison](https://github.com/unisonweb/unison)
-4. 🗣 Commented on [#1237](https://github.com/etorreborre/specs2/issues/1237#issuecomment-2109584901) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🗣 Commented on [#1237](https://github.com/etorreborre/specs2/issues/1237#issuecomment-2108034301) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🔒 Closed issue [#1237](https://github.com/etorreborre/specs2/issues/1237) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1237](https://github.com/etorreborre/specs2/issues/1237#issuecomment-2111692606) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#4932](https://github.com/unisonweb/unison/pull/4932#issuecomment-2110345924) in [unisonweb/unison](https://github.com/unisonweb/unison)
+4. 🗣 Commented on [#4942](https://github.com/unisonweb/unison/issues/4942#issuecomment-2110342712) in [unisonweb/unison](https://github.com/unisonweb/unison)
+5. 🗣 Commented on [#1237](https://github.com/etorreborre/specs2/issues/1237#issuecomment-2109584901) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
