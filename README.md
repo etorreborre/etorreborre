@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8037](https://github.com/build-trust/ockam/pull/8037#issuecomment-2117585796) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🔒 Closed issue [#1237](https://github.com/etorreborre/specs2/issues/1237) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1237](https://github.com/etorreborre/specs2/issues/1237#issuecomment-2111692606) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🗣 Commented on [#4932](https://github.com/unisonweb/unison/pull/4932#issuecomment-2110345924) in [unisonweb/unison](https://github.com/unisonweb/unison)
-5. 🗣 Commented on [#4942](https://github.com/unisonweb/unison/issues/4942#issuecomment-2110342712) in [unisonweb/unison](https://github.com/unisonweb/unison)
+1. 🗣 Commented on [#1237](https://github.com/etorreborre/specs2/issues/1237#issuecomment-2117898059) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#1238](https://github.com/etorreborre/specs2/pull/1238) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 💪 Opened PR [#8055](https://github.com/build-trust/ockam/pull/8055) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#8037](https://github.com/build-trust/ockam/pull/8037#issuecomment-2117585796) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🔒 Closed issue [#1237](https://github.com/etorreborre/specs2/issues/1237) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
