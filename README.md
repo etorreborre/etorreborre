@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8095](https://github.com/build-trust/ockam/pull/8095) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🎉 Merged PR [#8055](https://github.com/build-trust/ockam/pull/8055) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🗣 Commented on [#13](https://github.com/build-trust/benthos/pull/13#issuecomment-2136716215) in [build-trust/benthos](https://github.com/build-trust/benthos)
-4. ❌ Closed PR [#13](https://github.com/build-trust/benthos/pull/13) in [build-trust/benthos](https://github.com/build-trust/benthos)
-5. 💪 Opened PR [#13](https://github.com/build-trust/benthos/pull/13) in [build-trust/benthos](https://github.com/build-trust/benthos)
+1. 🎉 Merged PR [#8095](https://github.com/build-trust/ockam/pull/8095) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 💪 Opened PR [#8095](https://github.com/build-trust/ockam/pull/8095) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🎉 Merged PR [#8055](https://github.com/build-trust/ockam/pull/8055) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#13](https://github.com/build-trust/benthos/pull/13#issuecomment-2136716215) in [build-trust/benthos](https://github.com/build-trust/benthos)
+5. ❌ Closed PR [#13](https://github.com/build-trust/benthos/pull/13) in [build-trust/benthos](https://github.com/build-trust/benthos)
 <!--END_SECTION:activity-->
 
 </details>
