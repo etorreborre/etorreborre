@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1244](https://github.com/etorreborre/specs2/issues/1244) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🚀 Published release [Revert to using Scala 3.3.3 LTS](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.5.3) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1244](https://github.com/etorreborre/specs2/issues/1244#issuecomment-2149112519) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#1243](https://github.com/etorreborre/specs2/pull/1243) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🗣 Commented on [#2980](https://github.com/unisonweb/unison/issues/2980#issuecomment-2143896849) in [unisonweb/unison](https://github.com/unisonweb/unison)
+1. 🚀 Published release [Scala-native upgrade](https://github.com/etorreborre/specs2/releases/tag/SPECS-4.20.7) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🔒 Closed issue [#1245](https://github.com/etorreborre/specs2/issues/1245) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#1245](https://github.com/etorreborre/specs2/issues/1245#issuecomment-2154262282) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🗣 Commented on [#1241](https://github.com/etorreborre/specs2/pull/1241#issuecomment-2154260979) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🔒 Closed issue [#1244](https://github.com/etorreborre/specs2/issues/1244) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
