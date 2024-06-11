@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1246](https://github.com/etorreborre/specs2/pull/1246#issuecomment-2156211617) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🎉 Merged PR [#1246](https://github.com/etorreborre/specs2/pull/1246) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#7819](https://github.com/build-trust/ockam/issues/7819#issuecomment-2154669682) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🚀 Published release [Scala-native upgrade](https://github.com/etorreborre/specs2/releases/tag/SPECS-4.20.7) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🔒 Closed issue [#1245](https://github.com/etorreborre/specs2/issues/1245) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🗣 Commented on [#1247](https://github.com/etorreborre/specs2/pull/1247#issuecomment-2161314211) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#1247](https://github.com/etorreborre/specs2/pull/1247) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#1246](https://github.com/etorreborre/specs2/pull/1246#issuecomment-2156211617) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🎉 Merged PR [#1246](https://github.com/etorreborre/specs2/pull/1246) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🗣 Commented on [#7819](https://github.com/build-trust/ockam/issues/7819#issuecomment-2154669682) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
