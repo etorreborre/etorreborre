@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1250](https://github.com/etorreborre/specs2/pull/1250) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 💪 Opened PR [#3291](https://github.com/launchbadge/sqlx/pull/3291) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-3. ❗ Opened issue [#3290](https://github.com/launchbadge/sqlx/issues/3290) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-4. 💪 Opened PR [#1250](https://github.com/etorreborre/specs2/pull/1250) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🗣 Commented on [#1248](https://github.com/etorreborre/specs2/issues/1248#issuecomment-2162356802) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🎉 Merged PR [#1251](https://github.com/etorreborre/specs2/pull/1251) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#1250](https://github.com/etorreborre/specs2/pull/1250) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 💪 Opened PR [#3291](https://github.com/launchbadge/sqlx/pull/3291) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
+4. ❗ Opened issue [#3290](https://github.com/launchbadge/sqlx/issues/3290) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
+5. 💪 Opened PR [#1250](https://github.com/etorreborre/specs2/pull/1250) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
