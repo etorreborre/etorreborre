@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3298](https://github.com/launchbadge/sqlx/pull/3298#issuecomment-2182537555) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-2. 🗣 Commented on [#3297](https://github.com/launchbadge/sqlx/pull/3297#issuecomment-2182488440) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-3. 💪 Opened PR [#3298](https://github.com/launchbadge/sqlx/pull/3298) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-4. 💪 Opened PR [#3297](https://github.com/launchbadge/sqlx/pull/3297) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-5. ❌ Closed PR [#3296](https://github.com/launchbadge/sqlx/pull/3296) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
+1. 💪 Opened PR [#8202](https://github.com/build-trust/ockam/pull/8202) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#3298](https://github.com/launchbadge/sqlx/pull/3298#issuecomment-2182537555) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
+3. 🗣 Commented on [#3297](https://github.com/launchbadge/sqlx/pull/3297#issuecomment-2182488440) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
+4. 💪 Opened PR [#3298](https://github.com/launchbadge/sqlx/pull/3298) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
+5. 💪 Opened PR [#3297](https://github.com/launchbadge/sqlx/pull/3297) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
 <!--END_SECTION:activity-->
 
 </details>
