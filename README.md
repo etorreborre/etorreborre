@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1197](https://github.com/flox/flox/issues/1197#issuecomment-2183913975) in [flox/flox](https://github.com/flox/flox)
-2. 🗣 Commented on [#3297](https://github.com/launchbadge/sqlx/pull/3297#issuecomment-2183913531) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-3. 🎉 Merged PR [#8207](https://github.com/build-trust/ockam/pull/8207) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 💪 Opened PR [#8202](https://github.com/build-trust/ockam/pull/8202) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🗣 Commented on [#3298](https://github.com/launchbadge/sqlx/pull/3298#issuecomment-2182537555) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
+1. 🎉 Merged PR [#1252](https://github.com/etorreborre/specs2/pull/1252) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1197](https://github.com/flox/flox/issues/1197#issuecomment-2183913975) in [flox/flox](https://github.com/flox/flox)
+3. 🗣 Commented on [#3297](https://github.com/launchbadge/sqlx/pull/3297#issuecomment-2183913531) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
+4. 🎉 Merged PR [#8207](https://github.com/build-trust/ockam/pull/8207) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 💪 Opened PR [#8202](https://github.com/build-trust/ockam/pull/8202) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
