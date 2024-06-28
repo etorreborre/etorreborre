@@ -66,9 +66,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5135](https://github.com/unisonweb/unison/pull/5135) in [unisonweb/unison](https://github.com/unisonweb/unison)
-2. 🎉 Merged PR [#1252](https://github.com/etorreborre/specs2/pull/1252) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1197](https://github.com/flox/flox/issues/1197#issuecomment-2183913975) in [flox/flox](https://github.com/flox/flox)
+1. 🗣 Commented on [#8198](https://github.com/build-trust/ockam/pull/8198#issuecomment-2196895124) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 💪 Opened PR [#5135](https://github.com/unisonweb/unison/pull/5135) in [unisonweb/unison](https://github.com/unisonweb/unison)
+3. 🎉 Merged PR [#1252](https://github.com/etorreborre/specs2/pull/1252) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 4. 🗣 Commented on [#3297](https://github.com/launchbadge/sqlx/pull/3297#issuecomment-2183913531) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
 5. 🎉 Merged PR [#8207](https://github.com/build-trust/ockam/pull/8207) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
