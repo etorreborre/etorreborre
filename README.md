@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8257](https://github.com/build-trust/ockam/pull/8257) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🎉 Merged PR [#8245](https://github.com/build-trust/ockam/pull/8245) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 💪 Opened PR [#8257](https://github.com/build-trust/ockam/pull/8257) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 💪 Opened PR [#8256](https://github.com/build-trust/ockam/pull/8256) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#8253](https://github.com/build-trust/ockam/pull/8253) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🚀 Published release [Fix for `ok and failure` when using `ThrownExpectations`](https://github.com/etorreborre/specs2/releases/tag/SPECS-4.20.8) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#8257](https://github.com/build-trust/ockam/pull/8257) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🎉 Merged PR [#8245](https://github.com/build-trust/ockam/pull/8245) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 💪 Opened PR [#8257](https://github.com/build-trust/ockam/pull/8257) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 💪 Opened PR [#8256](https://github.com/build-trust/ockam/pull/8256) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
