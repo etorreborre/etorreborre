@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1255](https://github.com/etorreborre/specs2/issues/1255#issuecomment-2209388367) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🔒 Closed issue [#1255](https://github.com/etorreborre/specs2/issues/1255) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🚀 Published release [Fix for `ok and failure` when using `ThrownExpectations`](https://github.com/etorreborre/specs2/releases/tag/SPECS-4.20.8) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#8257](https://github.com/build-trust/ockam/pull/8257) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#8245](https://github.com/build-trust/ockam/pull/8245) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 💪 Opened PR [#8261](https://github.com/build-trust/ockam/pull/8261) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#1255](https://github.com/etorreborre/specs2/issues/1255#issuecomment-2209388367) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🔒 Closed issue [#1255](https://github.com/etorreborre/specs2/issues/1255) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🚀 Published release [Fix for `ok and failure` when using `ThrownExpectations`](https://github.com/etorreborre/specs2/releases/tag/SPECS-4.20.8) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#8257](https://github.com/build-trust/ockam/pull/8257) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
