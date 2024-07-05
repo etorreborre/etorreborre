@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8262](https://github.com/build-trust/ockam/pull/8262) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 💪 Opened PR [#8261](https://github.com/build-trust/ockam/pull/8261) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🗣 Commented on [#1255](https://github.com/etorreborre/specs2/issues/1255#issuecomment-2209388367) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🔒 Closed issue [#1255](https://github.com/etorreborre/specs2/issues/1255) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🚀 Published release [Fix for `ok and failure` when using `ThrownExpectations`](https://github.com/etorreborre/specs2/releases/tag/SPECS-4.20.8) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🎉 Merged PR [#8262](https://github.com/build-trust/ockam/pull/8262) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 💪 Opened PR [#8262](https://github.com/build-trust/ockam/pull/8262) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 💪 Opened PR [#8261](https://github.com/build-trust/ockam/pull/8261) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#1255](https://github.com/etorreborre/specs2/issues/1255#issuecomment-2209388367) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🔒 Closed issue [#1255](https://github.com/etorreborre/specs2/issues/1255) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
