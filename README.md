@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8285](https://github.com/build-trust/ockam/pull/8285) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🎉 Merged PR [#8293](https://github.com/build-trust/ockam/pull/8293) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🎉 Merged PR [#8278](https://github.com/build-trust/ockam/pull/8278) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 💪 Opened PR [#8278](https://github.com/build-trust/ockam/pull/8278) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 💪 Opened PR [#8268](https://github.com/build-trust/ockam/pull/8268) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🗣 Commented on [#3298](https://github.com/launchbadge/sqlx/pull/3298#issuecomment-2225009364) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
+2. 🎉 Merged PR [#8285](https://github.com/build-trust/ockam/pull/8285) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🎉 Merged PR [#8293](https://github.com/build-trust/ockam/pull/8293) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🎉 Merged PR [#8278](https://github.com/build-trust/ockam/pull/8278) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 💪 Opened PR [#8278](https://github.com/build-trust/ockam/pull/8278) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
