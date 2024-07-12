@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8303](https://github.com/build-trust/ockam/pull/8303#issuecomment-2225539641) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🗣 Commented on [#8295](https://github.com/build-trust/ockam/pull/8295#issuecomment-2225337024) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🗣 Commented on [#3297](https://github.com/launchbadge/sqlx/pull/3297#issuecomment-2225199282) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-4. 🗣 Commented on [#3298](https://github.com/launchbadge/sqlx/pull/3298#issuecomment-2225009364) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-5. 🎉 Merged PR [#8285](https://github.com/build-trust/ockam/pull/8285) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 💪 Opened PR [#8305](https://github.com/build-trust/ockam/pull/8305) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#8303](https://github.com/build-trust/ockam/pull/8303#issuecomment-2225539641) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🗣 Commented on [#8295](https://github.com/build-trust/ockam/pull/8295#issuecomment-2225337024) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#3297](https://github.com/launchbadge/sqlx/pull/3297#issuecomment-2225199282) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
+5. 🗣 Commented on [#3298](https://github.com/launchbadge/sqlx/pull/3298#issuecomment-2225009364) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
 <!--END_SECTION:activity-->
 
 </details>
