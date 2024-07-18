@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1325](https://github.com/snowflakedb/snowflake-cli/issues/1325) in [snowflakedb/snowflake-cli](https://github.com/snowflakedb/snowflake-cli)
-2. 🎉 Merged PR [#8267](https://github.com/build-trust/ockam/pull/8267) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🎉 Merged PR [#8303](https://github.com/build-trust/ockam/pull/8303) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🗣 Commented on [#8303](https://github.com/build-trust/ockam/pull/8303#issuecomment-2225823206) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#8305](https://github.com/build-trust/ockam/pull/8305) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🎉 Merged PR [#8271](https://github.com/build-trust/ockam/pull/8271) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. ❗ Opened issue [#1325](https://github.com/snowflakedb/snowflake-cli/issues/1325) in [snowflakedb/snowflake-cli](https://github.com/snowflakedb/snowflake-cli)
+3. 🎉 Merged PR [#8267](https://github.com/build-trust/ockam/pull/8267) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🎉 Merged PR [#8303](https://github.com/build-trust/ockam/pull/8303) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🗣 Commented on [#8303](https://github.com/build-trust/ockam/pull/8303#issuecomment-2225823206) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
