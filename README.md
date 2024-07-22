@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8330](https://github.com/build-trust/ockam/pull/8330) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🗣 Commented on [#8317](https://github.com/build-trust/ockam/pull/8317#issuecomment-2235880321) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. ❌ Closed PR [#8317](https://github.com/build-trust/ockam/pull/8317) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🗣 Commented on [#8319](https://github.com/build-trust/ockam/pull/8319#issuecomment-2235879576) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. ❌ Closed PR [#8319](https://github.com/build-trust/ockam/pull/8319) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🗣 Commented on [#1325](https://github.com/snowflakedb/snowflake-cli/issues/1325#issuecomment-2243337239) in [snowflakedb/snowflake-cli](https://github.com/snowflakedb/snowflake-cli)
+2. 💪 Opened PR [#8330](https://github.com/build-trust/ockam/pull/8330) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🗣 Commented on [#8317](https://github.com/build-trust/ockam/pull/8317#issuecomment-2235880321) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. ❌ Closed PR [#8317](https://github.com/build-trust/ockam/pull/8317) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🗣 Commented on [#8319](https://github.com/build-trust/ockam/pull/8319#issuecomment-2235879576) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
