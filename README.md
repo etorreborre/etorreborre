@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8364](https://github.com/build-trust/ockam/pull/8364) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🗣 Commented on [#7819](https://github.com/build-trust/ockam/issues/7819#issuecomment-2258254548) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🎉 Merged PR [#1258](https://github.com/etorreborre/specs2/pull/1258) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🗣 Commented on [#4463](https://github.com/unisonweb/unison/issues/4463#issuecomment-2253604521) in [unisonweb/unison](https://github.com/unisonweb/unison)
-5. 🗣 Commented on [#1325](https://github.com/snowflakedb/snowflake-cli/issues/1325#issuecomment-2243337239) in [snowflakedb/snowflake-cli](https://github.com/snowflakedb/snowflake-cli)
+1. 🗣 Commented on [#8364](https://github.com/build-trust/ockam/pull/8364#issuecomment-2259900797) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. ❌ Closed PR [#8364](https://github.com/build-trust/ockam/pull/8364) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 💪 Opened PR [#8364](https://github.com/build-trust/ockam/pull/8364) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#7819](https://github.com/build-trust/ockam/issues/7819#issuecomment-2258254548) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🎉 Merged PR [#1258](https://github.com/etorreborre/specs2/pull/1258) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
