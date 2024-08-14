@@ -31,6 +31,7 @@
 
  - [specs2][specs2] a BDD library for Scala
  - [registry][registry] a dependency injection library for Haskell (or a typeclass alternative depending on how you see it)
+ - [potions][potions] a command-line arguments parsing library for Unison
 
 ---
 
@@ -48,6 +49,9 @@
 
 ### 📕 Blog Posts
 
+- [What is so unique about Unison?](https://etorreborre.blog/what-is-so-unique-about-unison)
+- [Tagless final, for real](https://etorreborre.blog/typed-tagless-final-for-real)
+- [The application toolbok](https://etorreborre.blog/the-application-toolbox)
 - [specs2, the next 10 years](https://medium.com/@etorreborre_99063/specs2-the-next-10-years-8c15e85cb9fe)
 - [Becoming reasonable](https://medium.com/@etorreborre_99063/becoming-reasonable-361d7f674ee0)
 - [Scrap your typeclasses](https://medium.com/@etorreborre_99063/scrap-your-typeclasses-take-2-32ce9fb18810)
@@ -84,6 +88,7 @@
 
 [specs2]: https://github.com/etorreborre/specs2
 [registry]: https://github.com/etorreborre/registry
+[potions]: https://share.unison-lang.org/@etorreborre/potions
 [twitter]: https://twitter.com/etorreborre
 [mastodon]: https://fosstodon.org/@etorreborre
 [linkedin]: https://linkedin.com/in/etorreborre
