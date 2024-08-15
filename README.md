@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8365](https://github.com/build-trust/ockam/pull/8365#issuecomment-2291120269) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🗣 Commented on [#8365](https://github.com/build-trust/ockam/pull/8365#issuecomment-2288083930) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 💪 Opened PR [#19](https://github.com/build-trust/benthos/pull/19) in [build-trust/benthos](https://github.com/build-trust/benthos)
-4. 🎉 Merged PR [#1260](https://github.com/etorreborre/specs2/pull/1260) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#8387](https://github.com/build-trust/ockam/pull/8387) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🗣 Commented on [#1262](https://github.com/etorreborre/specs2/pull/1262#issuecomment-2291474091) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#1261](https://github.com/etorreborre/specs2/pull/1261) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#8365](https://github.com/build-trust/ockam/pull/8365#issuecomment-2291120269) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#8365](https://github.com/build-trust/ockam/pull/8365#issuecomment-2288083930) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 💪 Opened PR [#19](https://github.com/build-trust/benthos/pull/19) in [build-trust/benthos](https://github.com/build-trust/benthos)
 <!--END_SECTION:activity-->
 
 </details>
