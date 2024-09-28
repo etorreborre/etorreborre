@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1268](https://github.com/etorreborre/specs2/pull/1268) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🎉 Merged PR [#1267](https://github.com/etorreborre/specs2/pull/1267) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🎉 Merged PR [#1269](https://github.com/etorreborre/specs2/pull/1269) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#1266](https://github.com/etorreborre/specs2/pull/1266) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🗣 Commented on [#5337](https://github.com/unisonweb/unison/issues/5337#issuecomment-2364674124) in [unisonweb/unison](https://github.com/unisonweb/unison)
+1. 🎉 Merged PR [#1271](https://github.com/etorreborre/specs2/pull/1271) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#1270](https://github.com/etorreborre/specs2/pull/1270) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🎉 Merged PR [#1268](https://github.com/etorreborre/specs2/pull/1268) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🎉 Merged PR [#1267](https://github.com/etorreborre/specs2/pull/1267) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#1269](https://github.com/etorreborre/specs2/pull/1269) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
