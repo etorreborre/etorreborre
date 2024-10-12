@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1275](https://github.com/etorreborre/specs2/issues/1275#issuecomment-2407585075) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🔒 Closed issue [#1275](https://github.com/etorreborre/specs2/issues/1275) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1275](https://github.com/etorreborre/specs2/issues/1275#issuecomment-2406778654) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#1276](https://github.com/etorreborre/specs2/pull/1276) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 💪 Opened PR [#8529](https://github.com/build-trust/ockam/pull/8529) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. ❗ Opened issue [#1277](https://github.com/etorreborre/specs2/issues/1277) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1275](https://github.com/etorreborre/specs2/issues/1275#issuecomment-2407585075) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🔒 Closed issue [#1275](https://github.com/etorreborre/specs2/issues/1275) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🗣 Commented on [#1275](https://github.com/etorreborre/specs2/issues/1275#issuecomment-2406778654) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#1276](https://github.com/etorreborre/specs2/pull/1276) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
