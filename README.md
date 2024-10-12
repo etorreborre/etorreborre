@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1277](https://github.com/etorreborre/specs2/issues/1277) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🗣 Commented on [#1275](https://github.com/etorreborre/specs2/issues/1275#issuecomment-2407585075) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🔒 Closed issue [#1275](https://github.com/etorreborre/specs2/issues/1275) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🗣 Commented on [#1275](https://github.com/etorreborre/specs2/issues/1275#issuecomment-2406778654) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#1276](https://github.com/etorreborre/specs2/pull/1276) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🚀 Published release [Fix for the HTML documentation](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.5.8) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1277](https://github.com/etorreborre/specs2/issues/1277#issuecomment-2408624224) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🔒 Closed issue [#1277](https://github.com/etorreborre/specs2/issues/1277) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. ❗ Opened issue [#1277](https://github.com/etorreborre/specs2/issues/1277) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🗣 Commented on [#1275](https://github.com/etorreborre/specs2/issues/1275#issuecomment-2407585075) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
