@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fix for the HTML documentation](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.5.8) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🗣 Commented on [#1277](https://github.com/etorreborre/specs2/issues/1277#issuecomment-2408624224) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🔒 Closed issue [#1277](https://github.com/etorreborre/specs2/issues/1277) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. ❗ Opened issue [#1277](https://github.com/etorreborre/specs2/issues/1277) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🗣 Commented on [#1275](https://github.com/etorreborre/specs2/issues/1275#issuecomment-2407585075) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🎉 Merged PR [#8534](https://github.com/build-trust/ockam/pull/8534) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🎉 Merged PR [#1278](https://github.com/etorreborre/specs2/pull/1278) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#8509](https://github.com/build-trust/ockam/pull/8509#issuecomment-2411639192) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. ❌ Closed PR [#8509](https://github.com/build-trust/ockam/pull/8509) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🗣 Commented on [#8527](https://github.com/build-trust/ockam/pull/8527#issuecomment-2411638982) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
