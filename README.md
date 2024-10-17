@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1156](https://github.com/build-trust/ockam-website/pull/1156) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
-2. 🗣 Commented on [#1239](https://github.com/etorreborre/specs2/issues/1239#issuecomment-2413298719) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🔒 Closed issue [#1239](https://github.com/etorreborre/specs2/issues/1239) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🚀 Published release [Upgraded to the lastest scala native version](https://github.com/etorreborre/specs2/releases/tag/SPECS2-4.20.9) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#8496](https://github.com/build-trust/ockam/pull/8496) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 💪 Opened PR [#1158](https://github.com/build-trust/ockam-website/pull/1158) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
+2. 💪 Opened PR [#1156](https://github.com/build-trust/ockam-website/pull/1156) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
+3. 🗣 Commented on [#1239](https://github.com/etorreborre/specs2/issues/1239#issuecomment-2413298719) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🔒 Closed issue [#1239](https://github.com/etorreborre/specs2/issues/1239) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🚀 Published release [Upgraded to the lastest scala native version](https://github.com/etorreborre/specs2/releases/tag/SPECS2-4.20.9) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
