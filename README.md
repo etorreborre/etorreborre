@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1167](https://github.com/build-trust/ockam-website/pull/1167) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
-2. 🎉 Merged PR [#1282](https://github.com/etorreborre/specs2/pull/1282) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🎉 Merged PR [#1281](https://github.com/etorreborre/specs2/pull/1281) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#1280](https://github.com/etorreborre/specs2/pull/1280) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 💪 Opened PR [#1161](https://github.com/build-trust/ockam-website/pull/1161) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
+1. ❗ Opened issue [#14529](https://github.com/duckdb/duckdb/issues/14529) in [duckdb/duckdb](https://github.com/duckdb/duckdb)
+2. 💪 Opened PR [#1167](https://github.com/build-trust/ockam-website/pull/1167) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
+3. 🎉 Merged PR [#1282](https://github.com/etorreborre/specs2/pull/1282) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🎉 Merged PR [#1281](https://github.com/etorreborre/specs2/pull/1281) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#1280](https://github.com/etorreborre/specs2/pull/1280) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
