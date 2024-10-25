@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14529](https://github.com/duckdb/duckdb/issues/14529#issuecomment-2435534206) in [duckdb/duckdb](https://github.com/duckdb/duckdb)
-2. ❗ Opened issue [#14529](https://github.com/duckdb/duckdb/issues/14529) in [duckdb/duckdb](https://github.com/duckdb/duckdb)
-3. 💪 Opened PR [#1167](https://github.com/build-trust/ockam-website/pull/1167) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
-4. 🎉 Merged PR [#1282](https://github.com/etorreborre/specs2/pull/1282) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#1281](https://github.com/etorreborre/specs2/pull/1281) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 💪 Opened PR [#8578](https://github.com/build-trust/ockam/pull/8578) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🗣 Commented on [#14529](https://github.com/duckdb/duckdb/issues/14529#issuecomment-2435534206) in [duckdb/duckdb](https://github.com/duckdb/duckdb)
+3. ❗ Opened issue [#14529](https://github.com/duckdb/duckdb/issues/14529) in [duckdb/duckdb](https://github.com/duckdb/duckdb)
+4. 💪 Opened PR [#1167](https://github.com/build-trust/ockam-website/pull/1167) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
+5. 🎉 Merged PR [#1282](https://github.com/etorreborre/specs2/pull/1282) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
