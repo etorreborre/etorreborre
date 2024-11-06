@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1286](https://github.com/etorreborre/specs2/issues/1286#issuecomment-2460259452) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🗣 Commented on [#1286](https://github.com/etorreborre/specs2/issues/1286#issuecomment-2460109279) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🎉 Merged PR [#1285](https://github.com/etorreborre/specs2/pull/1285) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🗣 Commented on [#14529](https://github.com/duckdb/duckdb/issues/14529#issuecomment-2455088745) in [duckdb/duckdb](https://github.com/duckdb/duckdb)
-5. 🎉 Merged PR [#1284](https://github.com/etorreborre/specs2/pull/1284) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🗣 Commented on [#1286](https://github.com/etorreborre/specs2/issues/1286#issuecomment-2460443158) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1286](https://github.com/etorreborre/specs2/issues/1286#issuecomment-2460259452) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#1286](https://github.com/etorreborre/specs2/issues/1286#issuecomment-2460109279) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🎉 Merged PR [#1285](https://github.com/etorreborre/specs2/pull/1285) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🗣 Commented on [#14529](https://github.com/duckdb/duckdb/issues/14529#issuecomment-2455088745) in [duckdb/duckdb](https://github.com/duckdb/duckdb)
 <!--END_SECTION:activity-->
 
 </details>
