@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8649](https://github.com/build-trust/ockam/pull/8649) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🎉 Merged PR [#8299](https://github.com/build-trust/ockam/pull/8299) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. ❗ Opened issue [#5453](https://github.com/unisonweb/unison/issues/5453) in [unisonweb/unison](https://github.com/unisonweb/unison)
-4. 🎉 Merged PR [#8634](https://github.com/build-trust/ockam/pull/8634) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#8632](https://github.com/build-trust/ockam/pull/8632) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 💪 Opened PR [#8652](https://github.com/build-trust/ockam/pull/8652) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 💪 Opened PR [#8649](https://github.com/build-trust/ockam/pull/8649) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🎉 Merged PR [#8299](https://github.com/build-trust/ockam/pull/8299) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. ❗ Opened issue [#5453](https://github.com/unisonweb/unison/issues/5453) in [unisonweb/unison](https://github.com/unisonweb/unison)
+5. 🎉 Merged PR [#8634](https://github.com/build-trust/ockam/pull/8634) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
