@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1191](https://github.com/build-trust/ockam-website/pull/1191) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
-2. 🗣 Commented on [#4463](https://github.com/unisonweb/unison/issues/4463#issuecomment-2525201288) in [unisonweb/unison](https://github.com/unisonweb/unison)
-3. 🎉 Merged PR [#8687](https://github.com/build-trust/ockam/pull/8687) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🎉 Merged PR [#1290](https://github.com/etorreborre/specs2/pull/1290) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 💪 Opened PR [#1190](https://github.com/build-trust/ockam-website/pull/1190) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
+1. 🗣 Commented on [#1192](https://github.com/build-trust/ockam-website/pull/1192#issuecomment-2531491971) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
+2. ❌ Closed PR [#1192](https://github.com/build-trust/ockam-website/pull/1192) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
+3. 💪 Opened PR [#1192](https://github.com/build-trust/ockam-website/pull/1192) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
+4. 💪 Opened PR [#1191](https://github.com/build-trust/ockam-website/pull/1191) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
+5. 🗣 Commented on [#4463](https://github.com/unisonweb/unison/issues/4463#issuecomment-2525201288) in [unisonweb/unison](https://github.com/unisonweb/unison)
 <!--END_SECTION:activity-->
 
 </details>
