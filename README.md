@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8696](https://github.com/build-trust/ockam/pull/8696) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🗣 Commented on [#4463](https://github.com/unisonweb/unison/issues/4463#issuecomment-2535556744) in [unisonweb/unison](https://github.com/unisonweb/unison)
-3. 💪 Opened PR [#8696](https://github.com/build-trust/ockam/pull/8696) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🗣 Commented on [#1192](https://github.com/build-trust/ockam-website/pull/1192#issuecomment-2531491971) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
-5. ❌ Closed PR [#1192](https://github.com/build-trust/ockam-website/pull/1192) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
+1. 🎉 Merged PR [#8706](https://github.com/build-trust/ockam/pull/8706) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🎉 Merged PR [#8696](https://github.com/build-trust/ockam/pull/8696) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🗣 Commented on [#4463](https://github.com/unisonweb/unison/issues/4463#issuecomment-2535556744) in [unisonweb/unison](https://github.com/unisonweb/unison)
+4. 💪 Opened PR [#8696](https://github.com/build-trust/ockam/pull/8696) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🗣 Commented on [#1192](https://github.com/build-trust/ockam-website/pull/1192#issuecomment-2531491971) in [build-trust/ockam-website](https://github.com/build-trust/ockam-website)
 <!--END_SECTION:activity-->
 
 </details>
