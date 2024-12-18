@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/etorreborre/registry/issues/11#issuecomment-2548626056) in [etorreborre/registry](https://github.com/etorreborre/registry)
-2. 🔒 Closed issue [#11](https://github.com/etorreborre/registry/issues/11) in [etorreborre/registry](https://github.com/etorreborre/registry)
-3. 💪 Opened PR [#8708](https://github.com/build-trust/ockam/pull/8708) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🎉 Merged PR [#8706](https://github.com/build-trust/ockam/pull/8706) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#8696](https://github.com/build-trust/ockam/pull/8696) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🗣 Commented on [#11](https://github.com/etorreborre/registry/issues/11#issuecomment-2549003552) in [etorreborre/registry](https://github.com/etorreborre/registry)
+2. 🗣 Commented on [#11](https://github.com/etorreborre/registry/issues/11#issuecomment-2548626056) in [etorreborre/registry](https://github.com/etorreborre/registry)
+3. 🔒 Closed issue [#11](https://github.com/etorreborre/registry/issues/11) in [etorreborre/registry](https://github.com/etorreborre/registry)
+4. 💪 Opened PR [#8708](https://github.com/build-trust/ockam/pull/8708) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 🎉 Merged PR [#8706](https://github.com/build-trust/ockam/pull/8706) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
