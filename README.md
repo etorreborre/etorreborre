@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8729](https://github.com/build-trust/ockam/pull/8729) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🗣 Commented on [#11](https://github.com/etorreborre/registry/issues/11#issuecomment-2571555703) in [etorreborre/registry](https://github.com/etorreborre/registry)
-3. 💪 Opened PR [#390](https://github.com/commercialhaskell/lts-haskell/pull/390) in [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell)
-4. 🎉 Merged PR [#1294](https://github.com/etorreborre/specs2/pull/1294) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#1293](https://github.com/etorreborre/specs2/pull/1293) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🎉 Merged PR [#8729](https://github.com/build-trust/ockam/pull/8729) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 💪 Opened PR [#8729](https://github.com/build-trust/ockam/pull/8729) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🗣 Commented on [#11](https://github.com/etorreborre/registry/issues/11#issuecomment-2571555703) in [etorreborre/registry](https://github.com/etorreborre/registry)
+4. 💪 Opened PR [#390](https://github.com/commercialhaskell/lts-haskell/pull/390) in [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell)
+5. 🎉 Merged PR [#1294](https://github.com/etorreborre/specs2/pull/1294) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
