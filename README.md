@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8730](https://github.com/build-trust/ockam/pull/8730) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 🎉 Merged PR [#8731](https://github.com/build-trust/ockam/pull/8731) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🗣 Commented on [#525](https://github.com/flox/flox/issues/525#issuecomment-2575757316) in [flox/flox](https://github.com/flox/flox)
-4. 💪 Opened PR [#8731](https://github.com/build-trust/ockam/pull/8731) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#8728](https://github.com/build-trust/ockam/pull/8728) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 💪 Opened PR [#8734](https://github.com/build-trust/ockam/pull/8734) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 🎉 Merged PR [#8730](https://github.com/build-trust/ockam/pull/8730) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 🎉 Merged PR [#8731](https://github.com/build-trust/ockam/pull/8731) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🗣 Commented on [#525](https://github.com/flox/flox/issues/525#issuecomment-2575757316) in [flox/flox](https://github.com/flox/flox)
+5. 💪 Opened PR [#8731](https://github.com/build-trust/ockam/pull/8731) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
