@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1297](https://github.com/etorreborre/specs2/pull/1297) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🗣 Commented on [#1297](https://github.com/etorreborre/specs2/pull/1297#issuecomment-2591882457) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🎉 Merged PR [#1296](https://github.com/etorreborre/specs2/pull/1296) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 💪 Opened PR [#8747](https://github.com/build-trust/ockam/pull/8747) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 💪 Opened PR [#8746](https://github.com/build-trust/ockam/pull/8746) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 💪 Opened PR [#8757](https://github.com/build-trust/ockam/pull/8757) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. ❌ Closed PR [#1297](https://github.com/etorreborre/specs2/pull/1297) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#1297](https://github.com/etorreborre/specs2/pull/1297#issuecomment-2591882457) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🎉 Merged PR [#1296](https://github.com/etorreborre/specs2/pull/1296) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 💪 Opened PR [#8747](https://github.com/build-trust/ockam/pull/8747) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
