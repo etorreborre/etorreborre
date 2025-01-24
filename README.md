@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8590](https://github.com/build-trust/ockam/pull/8590) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. ❌ Closed PR [#8330](https://github.com/build-trust/ockam/pull/8330) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. ❌ Closed PR [#8416](https://github.com/build-trust/ockam/pull/8416) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. ❌ Closed PR [#8649](https://github.com/build-trust/ockam/pull/8649) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. ❌ Reopened PR [#8708](https://github.com/build-trust/ockam/pull/8708) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 💪 Opened PR [#8775](https://github.com/build-trust/ockam/pull/8775) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. ❌ Closed PR [#7614](https://github.com/build-trust/ockam/pull/7614) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. ❌ Closed PR [#8590](https://github.com/build-trust/ockam/pull/8590) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. ❌ Closed PR [#8330](https://github.com/build-trust/ockam/pull/8330) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. ❌ Closed PR [#8416](https://github.com/build-trust/ockam/pull/8416) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
