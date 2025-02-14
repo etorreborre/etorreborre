@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#112](https://github.com/ceedubs/unison-nix/pull/112) in [ceedubs/unison-nix](https://github.com/ceedubs/unison-nix)
-2. 🎉 Merged PR [#8783](https://github.com/build-trust/ockam/pull/8783) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 🎉 Merged PR [#8797](https://github.com/build-trust/ockam/pull/8797) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 💪 Opened PR [#8792](https://github.com/build-trust/ockam/pull/8792) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🎉 Merged PR [#1303](https://github.com/etorreborre/specs2/pull/1303) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 💪 Opened PR [#8801](https://github.com/build-trust/ockam/pull/8801) in [build-trust/ockam](https://github.com/build-trust/ockam)
+2. 💪 Opened PR [#112](https://github.com/ceedubs/unison-nix/pull/112) in [ceedubs/unison-nix](https://github.com/ceedubs/unison-nix)
+3. 🎉 Merged PR [#8783](https://github.com/build-trust/ockam/pull/8783) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. 🎉 Merged PR [#8797](https://github.com/build-trust/ockam/pull/8797) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 💪 Opened PR [#8792](https://github.com/build-trust/ockam/pull/8792) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
