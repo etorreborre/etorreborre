@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1312](https://github.com/etorreborre/specs2/pull/1312) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🗣 Commented on [#11](https://github.com/etorreborre/registry/issues/11#issuecomment-2704251559) in [etorreborre/registry](https://github.com/etorreborre/registry)
-3. 🗣 Commented on [#390](https://github.com/commercialhaskell/lts-haskell/pull/390#issuecomment-2704147702) in [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell)
-4. 🗣 Commented on [#11](https://github.com/etorreborre/registry/issues/11#issuecomment-2704134783) in [etorreborre/registry](https://github.com/etorreborre/registry)
-5. 🎉 Merged PR [#1310](https://github.com/etorreborre/specs2/pull/1310) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🗣 Commented on [#11](https://github.com/etorreborre/registry/issues/11#issuecomment-2710148276) in [etorreborre/registry](https://github.com/etorreborre/registry)
+2. 🗣 Commented on [#390](https://github.com/commercialhaskell/lts-haskell/pull/390#issuecomment-2710146495) in [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell)
+3. 🎉 Merged PR [#1312](https://github.com/etorreborre/specs2/pull/1312) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🗣 Commented on [#11](https://github.com/etorreborre/registry/issues/11#issuecomment-2704251559) in [etorreborre/registry](https://github.com/etorreborre/registry)
+5. 🗣 Commented on [#390](https://github.com/commercialhaskell/lts-haskell/pull/390#issuecomment-2704147702) in [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell)
 <!--END_SECTION:activity-->
 
 </details>
