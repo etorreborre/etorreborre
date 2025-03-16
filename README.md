@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1314](https://github.com/etorreborre/specs2/pull/1314) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🎉 Merged PR [#1313](https://github.com/etorreborre/specs2/pull/1313) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 💪 Opened PR [#8854](https://github.com/build-trust/ockam/pull/8854) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. 🗣 Commented on [#11](https://github.com/etorreborre/registry/issues/11#issuecomment-2710148276) in [etorreborre/registry](https://github.com/etorreborre/registry)
-5. 🗣 Commented on [#390](https://github.com/commercialhaskell/lts-haskell/pull/390#issuecomment-2710146495) in [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell)
+1. 🎉 Merged PR [#1316](https://github.com/etorreborre/specs2/pull/1316) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#1317](https://github.com/etorreborre/specs2/pull/1317) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🎉 Merged PR [#1314](https://github.com/etorreborre/specs2/pull/1314) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🎉 Merged PR [#1313](https://github.com/etorreborre/specs2/pull/1313) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 💪 Opened PR [#8854](https://github.com/build-trust/ockam/pull/8854) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
