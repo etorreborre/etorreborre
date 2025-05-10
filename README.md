@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/build-trust/ockam-cluster-template-hello/pull/4) in [build-trust/ockam-cluster-template-hello](https://github.com/build-trust/ockam-cluster-template-hello)
-2. ❌ Closed PR [#4](https://github.com/build-trust/docs/pull/4) in [build-trust/docs](https://github.com/build-trust/docs)
-3. 🗣 Commented on [#1325](https://github.com/etorreborre/specs2/issues/1325#issuecomment-2850143902) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#8957](https://github.com/build-trust/ockam/pull/8957) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 🗣 Commented on [#1327](https://github.com/etorreborre/specs2/pull/1327#issuecomment-2840305458) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🗣 Commented on [#5683](https://github.com/unisonweb/unison/issues/5683#issuecomment-2868955798) in [unisonweb/unison](https://github.com/unisonweb/unison)
+2. 🗣 Commented on [#5683](https://github.com/unisonweb/unison/issues/5683#issuecomment-2868891025) in [unisonweb/unison](https://github.com/unisonweb/unison)
+3. 💪 Opened PR [#4](https://github.com/build-trust/ockam-cluster-template-hello/pull/4) in [build-trust/ockam-cluster-template-hello](https://github.com/build-trust/ockam-cluster-template-hello)
+4. ❌ Closed PR [#4](https://github.com/build-trust/docs/pull/4) in [build-trust/docs](https://github.com/build-trust/docs)
+5. 🗣 Commented on [#1325](https://github.com/etorreborre/specs2/issues/1325#issuecomment-2850143902) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
