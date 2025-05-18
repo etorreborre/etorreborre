@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/etorreborre/registry/issues/12#issuecomment-2888295254) in [etorreborre/registry](https://github.com/etorreborre/registry)
-2. 💪 Opened PR [#7758](https://github.com/commercialhaskell/stackage/pull/7758) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
-3. 🗣 Commented on [#12](https://github.com/etorreborre/registry/issues/12#issuecomment-2888290174) in [etorreborre/registry](https://github.com/etorreborre/registry)
-4. ❗ Opened issue [#5704](https://github.com/unisonweb/unison/issues/5704) in [unisonweb/unison](https://github.com/unisonweb/unison)
-5. 🗣 Commented on [#5683](https://github.com/unisonweb/unison/issues/5683#issuecomment-2868955798) in [unisonweb/unison](https://github.com/unisonweb/unison)
+1. ❗ Opened issue [#5707](https://github.com/unisonweb/unison/issues/5707) in [unisonweb/unison](https://github.com/unisonweb/unison)
+2. 🗣 Commented on [#12](https://github.com/etorreborre/registry/issues/12#issuecomment-2888295254) in [etorreborre/registry](https://github.com/etorreborre/registry)
+3. 💪 Opened PR [#7758](https://github.com/commercialhaskell/stackage/pull/7758) in [commercialhaskell/stackage](https://github.com/commercialhaskell/stackage)
+4. 🗣 Commented on [#12](https://github.com/etorreborre/registry/issues/12#issuecomment-2888290174) in [etorreborre/registry](https://github.com/etorreborre/registry)
+5. ❗ Opened issue [#5704](https://github.com/unisonweb/unison/issues/5704) in [unisonweb/unison](https://github.com/unisonweb/unison)
 <!--END_SECTION:activity-->
 
 </details>
