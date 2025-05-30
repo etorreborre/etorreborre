@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9014](https://github.com/build-trust/ockam/pull/9014) in [build-trust/ockam](https://github.com/build-trust/ockam)
-2. 💪 Opened PR [#9013](https://github.com/build-trust/ockam/pull/9013) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. ❗ Opened issue [#5708](https://github.com/unisonweb/unison/issues/5708) in [unisonweb/unison](https://github.com/unisonweb/unison)
-4. ❗ Opened issue [#5707](https://github.com/unisonweb/unison/issues/5707) in [unisonweb/unison](https://github.com/unisonweb/unison)
-5. 🗣 Commented on [#12](https://github.com/etorreborre/registry/issues/12#issuecomment-2888295254) in [etorreborre/registry](https://github.com/etorreborre/registry)
+1. 🎉 Merged PR [#1333](https://github.com/etorreborre/specs2/pull/1333) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#9014](https://github.com/build-trust/ockam/pull/9014) in [build-trust/ockam](https://github.com/build-trust/ockam)
+3. 💪 Opened PR [#9013](https://github.com/build-trust/ockam/pull/9013) in [build-trust/ockam](https://github.com/build-trust/ockam)
+4. ❗ Opened issue [#5708](https://github.com/unisonweb/unison/issues/5708) in [unisonweb/unison](https://github.com/unisonweb/unison)
+5. ❗ Opened issue [#5707](https://github.com/unisonweb/unison/issues/5707) in [unisonweb/unison](https://github.com/unisonweb/unison)
 <!--END_SECTION:activity-->
 
 </details>
