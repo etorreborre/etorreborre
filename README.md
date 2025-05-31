@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1333](https://github.com/etorreborre/specs2/pull/1333) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🎉 Merged PR [#9014](https://github.com/build-trust/ockam/pull/9014) in [build-trust/ockam](https://github.com/build-trust/ockam)
-3. 💪 Opened PR [#9013](https://github.com/build-trust/ockam/pull/9013) in [build-trust/ockam](https://github.com/build-trust/ockam)
-4. ❗ Opened issue [#5708](https://github.com/unisonweb/unison/issues/5708) in [unisonweb/unison](https://github.com/unisonweb/unison)
-5. ❗ Opened issue [#5707](https://github.com/unisonweb/unison/issues/5707) in [unisonweb/unison](https://github.com/unisonweb/unison)
+1. 🎉 Merged PR [#1334](https://github.com/etorreborre/specs2/pull/1334) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#1335](https://github.com/etorreborre/specs2/pull/1335) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🎉 Merged PR [#1333](https://github.com/etorreborre/specs2/pull/1333) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🎉 Merged PR [#9014](https://github.com/build-trust/ockam/pull/9014) in [build-trust/ockam](https://github.com/build-trust/ockam)
+5. 💪 Opened PR [#9013](https://github.com/build-trust/ockam/pull/9013) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
