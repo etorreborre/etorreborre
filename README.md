@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1345](https://github.com/etorreborre/specs2/pull/1345) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 💪 Opened PR [#2](https://github.com/build-trust/mem0/pull/2) in [build-trust/mem0](https://github.com/build-trust/mem0)
-3. 💪 Opened PR [#3059](https://github.com/mem0ai/mem0/pull/3059) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
-4. 💪 Opened PR [#9173](https://github.com/build-trust/ockam/pull/9173) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 💪 Opened PR [#9168](https://github.com/build-trust/ockam/pull/9168) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🎉 Merged PR [#1344](https://github.com/etorreborre/specs2/pull/1344) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#1345](https://github.com/etorreborre/specs2/pull/1345) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 💪 Opened PR [#2](https://github.com/build-trust/mem0/pull/2) in [build-trust/mem0](https://github.com/build-trust/mem0)
+4. 💪 Opened PR [#3059](https://github.com/mem0ai/mem0/pull/3059) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
+5. 💪 Opened PR [#9173](https://github.com/build-trust/ockam/pull/9173) in [build-trust/ockam](https://github.com/build-trust/ockam)
 <!--END_SECTION:activity-->
 
 </details>
