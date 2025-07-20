@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#637](https://github.com/flox/flox/issues/637#issuecomment-3078557626) in [flox/flox](https://github.com/flox/flox)
-2. 🎉 Merged PR [#1349](https://github.com/etorreborre/specs2/pull/1349) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🎉 Merged PR [#1346](https://github.com/etorreborre/specs2/pull/1346) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#9194](https://github.com/build-trust/ockam/pull/9194) in [build-trust/ockam](https://github.com/build-trust/ockam)
-5. 💪 Opened PR [#9194](https://github.com/build-trust/ockam/pull/9194) in [build-trust/ockam](https://github.com/build-trust/ockam)
+1. 🎉 Merged PR [#13](https://github.com/etorreborre/registry/pull/13) in [etorreborre/registry](https://github.com/etorreborre/registry)
+2. 🗣 Commented on [#13](https://github.com/etorreborre/registry/pull/13#issuecomment-3094478438) in [etorreborre/registry](https://github.com/etorreborre/registry)
+3. 🗣 Commented on [#637](https://github.com/flox/flox/issues/637#issuecomment-3078557626) in [flox/flox](https://github.com/flox/flox)
+4. 🎉 Merged PR [#1349](https://github.com/etorreborre/specs2/pull/1349) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#1346](https://github.com/etorreborre/specs2/pull/1346) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
