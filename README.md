@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1352](https://github.com/etorreborre/specs2/issues/1352#issuecomment-3102622167) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🚀 Published release [Maintenance release](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.6.4) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🎉 Merged PR [#1350](https://github.com/etorreborre/specs2/pull/1350) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#1351](https://github.com/etorreborre/specs2/pull/1351) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#13](https://github.com/etorreborre/registry/pull/13) in [etorreborre/registry](https://github.com/etorreborre/registry)
+1. 💪 Opened PR [#356](https://github.com/pragma-org/amaru/pull/356) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🗣 Commented on [#1352](https://github.com/etorreborre/specs2/issues/1352#issuecomment-3102622167) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🚀 Published release [Maintenance release](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.6.4) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🎉 Merged PR [#1350](https://github.com/etorreborre/specs2/pull/1350) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#1351](https://github.com/etorreborre/specs2/pull/1351) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
