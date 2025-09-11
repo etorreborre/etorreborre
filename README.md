@@ -71,10 +71,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#440](https://github.com/pragma-org/amaru/pull/440#issuecomment-3276349700) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. ❌ Assigned PR [#440](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 🗣 Commented on [#440](https://github.com/pragma-org/amaru/pull/440#issuecomment-3273910516) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 💪 Opened PR [#440](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🔒 Closed issue [#1367](https://github.com/etorreborre/specs2/issues/1367) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🎉 Merged PR [#432](https://github.com/pragma-org/amaru/pull/432) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 💪 Opened PR [#440](https://github.com/pragma-org/amaru/pull/440) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🎉 Merged PR [#1406](https://github.com/etorreborre/specs2/pull/1406) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#1405](https://github.com/etorreborre/specs2/pull/1405) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
