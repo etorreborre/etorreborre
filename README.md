@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#432](https://github.com/pragma-org/amaru/pull/432) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 💪 Opened PR [#440](https://github.com/pragma-org/amaru/pull/440) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 🎉 Merged PR [#1406](https://github.com/etorreborre/specs2/pull/1406) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#1405](https://github.com/etorreborre/specs2/pull/1405) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#1404](https://github.com/etorreborre/specs2/pull/1404) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🗣 Commented on [#440](https://github.com/pragma-org/amaru/pull/440#issuecomment-3276349700) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🎉 Merged PR [#432](https://github.com/pragma-org/amaru/pull/432) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 💪 Opened PR [#440](https://github.com/pragma-org/amaru/pull/440) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🎉 Merged PR [#1406](https://github.com/etorreborre/specs2/pull/1406) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#1405](https://github.com/etorreborre/specs2/pull/1405) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
