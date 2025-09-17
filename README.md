@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1418](https://github.com/etorreborre/specs2/pull/1418) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. ❌ Closed PR [#1413](https://github.com/etorreborre/specs2/pull/1413) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. ❌ Closed PR [#1411](https://github.com/etorreborre/specs2/pull/1411) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. ❌ Closed PR [#1408](https://github.com/etorreborre/specs2/pull/1408) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. ❌ Closed PR [#1407](https://github.com/etorreborre/specs2/pull/1407) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 💪 Opened PR [#459](https://github.com/pragma-org/amaru/pull/459) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. ❌ Closed PR [#1418](https://github.com/etorreborre/specs2/pull/1418) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. ❌ Closed PR [#1413](https://github.com/etorreborre/specs2/pull/1413) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. ❌ Closed PR [#1411](https://github.com/etorreborre/specs2/pull/1411) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. ❌ Closed PR [#1408](https://github.com/etorreborre/specs2/pull/1408) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
