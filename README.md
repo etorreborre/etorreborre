@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/pragma-org/uplc/pull/21#issuecomment-3329359270) in [pragma-org/uplc](https://github.com/pragma-org/uplc)
-2. ❌ Closed PR [#21](https://github.com/pragma-org/uplc/pull/21) in [pragma-org/uplc](https://github.com/pragma-org/uplc)
-3. 🎉 Merged PR [#441](https://github.com/pragma-org/amaru/pull/441) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 🎉 Merged PR [#444](https://github.com/pragma-org/amaru/pull/444) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 💪 Opened PR [#459](https://github.com/pragma-org/amaru/pull/459) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🚀 Published release [4.x release maintenance](https://github.com/etorreborre/specs2/releases/tag/SPECS2-4.22.0) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1365](https://github.com/etorreborre/specs2/pull/1365#issuecomment-3334442392) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#21](https://github.com/pragma-org/uplc/pull/21#issuecomment-3329359270) in [pragma-org/uplc](https://github.com/pragma-org/uplc)
+4. ❌ Closed PR [#21](undefined) in [pragma-org/uplc](https://github.com/pragma-org/uplc)
+5. ❌ Assigned PR [#21](undefined) in [pragma-org/uplc](https://github.com/pragma-org/uplc)
 <!--END_SECTION:activity-->
 
 </details>
