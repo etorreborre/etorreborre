@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#501](https://github.com/pragma-org/amaru/pull/501) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. ❌ Closed PR [#1438](https://github.com/etorreborre/specs2/pull/1438) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. ❌ Closed PR [#1437](https://github.com/etorreborre/specs2/pull/1437) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. 🎉 Merged PR [#502](https://github.com/pragma-org/amaru/pull/502) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 💪 Opened PR [#502](https://github.com/pragma-org/amaru/pull/502) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. ❌ Assigned PR [#503](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 💪 Opened PR [#503](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. ❌ Closed PR [#1438](undefined) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. ❌ Closed PR [#1437](undefined) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 💪 Opened PR [#502](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
