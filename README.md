@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#503](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 💪 Opened PR [#503](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. ❌ Closed PR [#1438](undefined) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. ❌ Closed PR [#1437](undefined) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 💪 Opened PR [#502](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. ❌ Assigned PR [#508](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 💪 Opened PR [#508](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 💪 Opened PR [#507](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. ❌ Assigned PR [#503](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. 💪 Opened PR [#503](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
