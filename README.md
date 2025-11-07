@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#543](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. ❌ Closed PR [#542](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. ❌ Assigned PR [#542](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 💪 Opened PR [#542](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. ❌ Assigned PR [#541](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. ❌ Assigned PR [#543](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 💪 Opened PR [#543](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. ❌ Closed PR [#542](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. ❌ Assigned PR [#542](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. 💪 Opened PR [#542](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
