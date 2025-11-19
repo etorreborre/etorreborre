@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#570](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 💪 Opened PR [#570](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. ❌ Assigned PR [#569](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 💪 Opened PR [#569](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🗣 Commented on [#568](https://github.com/pragma-org/amaru/pull/568#issuecomment-3551710201) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🔒 Closed issue [#5997](https://github.com/unisonweb/unison/issues/5997) in [unisonweb/unison](https://github.com/unisonweb/unison)
+2. 🗣 Commented on [#5997](https://github.com/unisonweb/unison/issues/5997#issuecomment-3554580916) in [unisonweb/unison](https://github.com/unisonweb/unison)
+3. ❌ Assigned PR [#570](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 💪 Opened PR [#570](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ❌ Assigned PR [#569](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
