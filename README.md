@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/kingsleyh/unison-editor/issues/3) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
-2. ❗ Opened issue [#2](https://github.com/kingsleyh/unison-editor/issues/2) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
-3. 💪 Opened PR [#714](undefined) in [txpipe/pallas](https://github.com/txpipe/pallas)
-4. ❌ Merged PR [#580](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 💪 Opened PR [#580](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 💪 Opened PR [#715](undefined) in [txpipe/pallas](https://github.com/txpipe/pallas)
+2. ❗ Opened issue [#3](https://github.com/kingsleyh/unison-editor/issues/3) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
+3. ❗ Opened issue [#2](https://github.com/kingsleyh/unison-editor/issues/2) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
+4. 💪 Opened PR [#714](undefined) in [txpipe/pallas](https://github.com/txpipe/pallas)
+5. ❌ Merged PR [#580](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
