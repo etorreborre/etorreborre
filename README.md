@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/kingsleyh/unison-editor/issues/5) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
-2. ❗ Opened issue [#4](https://github.com/kingsleyh/unison-editor/issues/4) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
-3. 🗣 Commented on [#3](https://github.com/kingsleyh/unison-editor/issues/3#issuecomment-3609174373) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
-4. 🗣 Commented on [#714](https://github.com/txpipe/pallas/pull/714#issuecomment-3605832085) in [txpipe/pallas](https://github.com/txpipe/pallas)
-5. 💪 Opened PR [#715](undefined) in [txpipe/pallas](https://github.com/txpipe/pallas)
+1. ❌ Merged PR [#714](undefined) in [txpipe/pallas](https://github.com/txpipe/pallas)
+2. ❗ Opened issue [#5](https://github.com/kingsleyh/unison-editor/issues/5) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
+3. ❗ Opened issue [#4](https://github.com/kingsleyh/unison-editor/issues/4) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
+4. 🗣 Commented on [#3](https://github.com/kingsleyh/unison-editor/issues/3#issuecomment-3609174373) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
+5. 🗣 Commented on [#714](https://github.com/txpipe/pallas/pull/714#issuecomment-3605832085) in [txpipe/pallas](https://github.com/txpipe/pallas)
 <!--END_SECTION:activity-->
 
 </details>
