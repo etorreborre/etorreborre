@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#715](https://github.com/txpipe/pallas/pull/715#issuecomment-3636152814) in [txpipe/pallas](https://github.com/txpipe/pallas)
-2. 🗣 Commented on [#591](https://github.com/pragma-org/amaru/issues/591#issuecomment-3628065494) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 💪 Opened PR [#587](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 🗣 Commented on [#584](https://github.com/pragma-org/amaru/pull/584#issuecomment-3613361974) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. ❌ Merged PR [#714](undefined) in [txpipe/pallas](https://github.com/txpipe/pallas)
+1. 🗣 Commented on [#587](https://github.com/pragma-org/amaru/pull/587#issuecomment-3638444873) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. ❌ Assigned PR [#587](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🗣 Commented on [#715](https://github.com/txpipe/pallas/pull/715#issuecomment-3636152814) in [txpipe/pallas](https://github.com/txpipe/pallas)
+4. 🗣 Commented on [#591](https://github.com/pragma-org/amaru/issues/591#issuecomment-3628065494) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. 💪 Opened PR [#587](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
