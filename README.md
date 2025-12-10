@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#591](https://github.com/pragma-org/amaru/issues/591#issuecomment-3628065494) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 💪 Opened PR [#587](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 🗣 Commented on [#584](https://github.com/pragma-org/amaru/pull/584#issuecomment-3613361974) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. ❌ Merged PR [#714](undefined) in [txpipe/pallas](https://github.com/txpipe/pallas)
-5. ❗ Opened issue [#5](https://github.com/kingsleyh/unison-editor/issues/5) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
+1. 🗣 Commented on [#715](https://github.com/txpipe/pallas/pull/715#issuecomment-3636152814) in [txpipe/pallas](https://github.com/txpipe/pallas)
+2. 🗣 Commented on [#591](https://github.com/pragma-org/amaru/issues/591#issuecomment-3628065494) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 💪 Opened PR [#587](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🗣 Commented on [#584](https://github.com/pragma-org/amaru/pull/584#issuecomment-3613361974) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ❌ Merged PR [#714](undefined) in [txpipe/pallas](https://github.com/txpipe/pallas)
 <!--END_SECTION:activity-->
 
 </details>
