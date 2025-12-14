@@ -70,9 +70,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#715](undefined) in [txpipe/pallas](https://github.com/txpipe/pallas)
-2. 🗣 Commented on [#587](https://github.com/pragma-org/amaru/pull/587#issuecomment-3638444873) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. ❌ Assigned PR [#587](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. ❗ Opened issue [#6](https://github.com/kingsleyh/unison-editor/issues/6) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
+2. 🗣 Commented on [#3](https://github.com/kingsleyh/unison-editor/issues/3#issuecomment-3651842256) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
+3. ❌ Merged PR [#715](undefined) in [txpipe/pallas](https://github.com/txpipe/pallas)
 4. 🗣 Commented on [#715](https://github.com/txpipe/pallas/pull/715#issuecomment-3636152814) in [txpipe/pallas](https://github.com/txpipe/pallas)
 5. 🗣 Commented on [#591](https://github.com/pragma-org/amaru/issues/591#issuecomment-3628065494) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
