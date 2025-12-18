@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#587](https://github.com/pragma-org/amaru/pull/587#issuecomment-3666007209) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. ❌ Closed PR [#587](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. ❗ Opened issue [#6](https://github.com/kingsleyh/unison-editor/issues/6) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
-4. 🗣 Commented on [#3](https://github.com/kingsleyh/unison-editor/issues/3#issuecomment-3651842256) in [kingsleyh/unison-editor](https://github.com/kingsleyh/unison-editor)
-5. ❌ Merged PR [#715](undefined) in [txpipe/pallas](https://github.com/txpipe/pallas)
+1. 🗣 Commented on [#611](https://github.com/pragma-org/amaru/pull/611#issuecomment-3671579257) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 💪 Opened PR [#611](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. ❌ Assigned PR [#611](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🗣 Commented on [#587](https://github.com/pragma-org/amaru/pull/587#issuecomment-3666007209) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ❌ Closed PR [#587](undefined) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
