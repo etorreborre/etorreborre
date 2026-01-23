@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#591](https://github.com/pragma-org/amaru/issues/591) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 🗣 Commented on [#591](https://github.com/pragma-org/amaru/issues/591#issuecomment-3785916355) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. ℹ️ Labeled issue [#644](https://github.com/pragma-org/amaru/issues/644) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. ℹ️ Labeled issue [#644](https://github.com/pragma-org/amaru/issues/644) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. ℹ️ Labeled issue [#644](https://github.com/pragma-org/amaru/issues/644) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. ℹ️ Labeled issue [#652](https://github.com/pragma-org/amaru/issues/652) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. ℹ️ Labeled issue [#652](https://github.com/pragma-org/amaru/issues/652) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. ℹ️ Labeled issue [#652](https://github.com/pragma-org/amaru/issues/652) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. ℹ️ Labeled issue [#652](https://github.com/pragma-org/amaru/issues/652) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ❗ Opened issue [#652](https://github.com/pragma-org/amaru/issues/652) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
