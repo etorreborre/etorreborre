@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#703](https://github.com/pragma-org/amaru/pull/703) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 💪 Opened PR [#703](https://github.com/pragma-org/amaru/pull/703) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 💪 Opened PR [#702](https://github.com/pragma-org/amaru/pull/702) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. ℹ️ Assigned PR [#702](https://github.com/pragma-org/amaru/pull/702) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🎉 Merged PR [#701](https://github.com/pragma-org/amaru/pull/701) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. ℹ️ Assigned PR [#708](https://github.com/pragma-org/amaru/pull/708) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. ℹ️ Assigned PR [#707](https://github.com/pragma-org/amaru/pull/707) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 💪 Opened PR [#708](https://github.com/pragma-org/amaru/pull/708) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 💪 Opened PR [#707](https://github.com/pragma-org/amaru/pull/707) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ℹ️ Labeled issue [#706](https://github.com/pragma-org/amaru/issues/706) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
