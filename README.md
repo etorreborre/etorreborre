@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#726](https://github.com/pragma-org/amaru/pull/726) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 🎉 Merged PR [#4](https://github.com/build-trust/freeflow/pull/4) in [build-trust/freeflow](https://github.com/build-trust/freeflow)
-3. 💪 Opened PR [#4](https://github.com/build-trust/freeflow/pull/4) in [build-trust/freeflow](https://github.com/build-trust/freeflow)
-4. ℹ️ Assigned PR [#724](https://github.com/pragma-org/amaru/pull/724) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 💪 Opened PR [#724](https://github.com/pragma-org/amaru/pull/724) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. ℹ️ Assigned PR [#726](https://github.com/pragma-org/amaru/pull/726) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 💪 Opened PR [#726](https://github.com/pragma-org/amaru/pull/726) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🎉 Merged PR [#4](https://github.com/build-trust/freeflow/pull/4) in [build-trust/freeflow](https://github.com/build-trust/freeflow)
+4. 💪 Opened PR [#4](https://github.com/build-trust/freeflow/pull/4) in [build-trust/freeflow](https://github.com/build-trust/freeflow)
+5. ℹ️ Assigned PR [#724](https://github.com/pragma-org/amaru/pull/724) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
