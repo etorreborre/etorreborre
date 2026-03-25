@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1506](https://github.com/etorreborre/specs2/pull/1506#issuecomment-4109603026) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. ℹ️ Assigned PR [#729](https://github.com/pragma-org/amaru/pull/729) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 💪 Opened PR [#729](https://github.com/pragma-org/amaru/pull/729) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 🗣 Commented on [#1506](https://github.com/etorreborre/specs2/pull/1506#issuecomment-4091590121) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🗣 Commented on [#724](https://github.com/pragma-org/amaru/pull/724#issuecomment-4091101344) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🗣 Commented on [#726](https://github.com/pragma-org/amaru/pull/726#issuecomment-4124893462) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🗣 Commented on [#1506](https://github.com/etorreborre/specs2/pull/1506#issuecomment-4109603026) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. ℹ️ Assigned PR [#729](https://github.com/pragma-org/amaru/pull/729) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 💪 Opened PR [#729](https://github.com/pragma-org/amaru/pull/729) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. 🗣 Commented on [#1506](https://github.com/etorreborre/specs2/pull/1506#issuecomment-4091590121) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
