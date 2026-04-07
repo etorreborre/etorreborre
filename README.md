@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#726](https://github.com/pragma-org/amaru/pull/726#issuecomment-4199565943) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 🗣 Commented on [#1325](https://github.com/etorreborre/specs2/issues/1325#issuecomment-4192028883) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🔒 Closed issue [#1325](https://github.com/etorreborre/specs2/issues/1325) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. ❌ Closed PR [#729](https://github.com/pragma-org/amaru/pull/729) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🔒 Closed issue [#1352](https://github.com/etorreborre/specs2/issues/1352) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🗣 Commented on [#1356](https://github.com/etorreborre/specs2/issues/1356#issuecomment-4199898840) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🔒 Closed issue [#1356](https://github.com/etorreborre/specs2/issues/1356) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🗣 Commented on [#726](https://github.com/pragma-org/amaru/pull/726#issuecomment-4199565943) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🗣 Commented on [#1325](https://github.com/etorreborre/specs2/issues/1325#issuecomment-4192028883) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🔒 Closed issue [#1325](https://github.com/etorreborre/specs2/issues/1325) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
