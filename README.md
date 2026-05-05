@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#747](https://github.com/pragma-org/amaru/pull/747#issuecomment-4378405437) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 💪 Opened PR [#800](https://github.com/pragma-org/amaru/pull/800) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. ℹ️ Assigned PR [#800](https://github.com/pragma-org/amaru/pull/800) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 💪 Opened PR [#435](https://github.com/cardano-hydrozoa/hydrozoa/pull/435) in [cardano-hydrozoa/hydrozoa](https://github.com/cardano-hydrozoa/hydrozoa)
-5. 🗣 Commented on [#747](https://github.com/pragma-org/amaru/pull/747#issuecomment-4360804949) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. ℹ️ Assigned PR [#801](https://github.com/pragma-org/amaru/pull/801) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 💪 Opened PR [#801](https://github.com/pragma-org/amaru/pull/801) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🗣 Commented on [#747](https://github.com/pragma-org/amaru/pull/747#issuecomment-4378405437) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 💪 Opened PR [#800](https://github.com/pragma-org/amaru/pull/800) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ℹ️ Assigned PR [#800](https://github.com/pragma-org/amaru/pull/800) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
