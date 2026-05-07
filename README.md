@@ -73,8 +73,8 @@
 1. ℹ️ Labeled issue [#803](https://github.com/pragma-org/amaru/issues/803) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 2. ℹ️ Labeled issue [#803](https://github.com/pragma-org/amaru/issues/803) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 3. ℹ️ Labeled issue [#803](https://github.com/pragma-org/amaru/issues/803) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. ℹ️ Assigned issue [#803](https://github.com/pragma-org/amaru/issues/803) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. ❗ Opened issue [#803](https://github.com/pragma-org/amaru/issues/803) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. ℹ️ Labeled issue [#803](https://github.com/pragma-org/amaru/issues/803) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ℹ️ Assigned issue [#803](https://github.com/pragma-org/amaru/issues/803) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
