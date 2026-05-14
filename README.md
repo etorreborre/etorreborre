@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#826](https://github.com/pragma-org/amaru/issues/826) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 💪 Opened PR [#2](https://github.com/etorreborre/hydrozoa/pull/2) in [etorreborre/hydrozoa](https://github.com/etorreborre/hydrozoa)
-3. ℹ️ Assigned PR [#2](https://github.com/etorreborre/hydrozoa/pull/2) in [etorreborre/hydrozoa](https://github.com/etorreborre/hydrozoa)
-4. 🎉 Merged PR [#805](https://github.com/pragma-org/amaru/pull/805) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. ℹ️ Labeled issue [#826](https://github.com/pragma-org/amaru/issues/826) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🗣 Commented on [#805](https://github.com/pragma-org/amaru/pull/805#issuecomment-4452007249) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. ℹ️ Labeled issue [#826](https://github.com/pragma-org/amaru/issues/826) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 💪 Opened PR [#2](https://github.com/etorreborre/hydrozoa/pull/2) in [etorreborre/hydrozoa](https://github.com/etorreborre/hydrozoa)
+4. ℹ️ Assigned PR [#2](https://github.com/etorreborre/hydrozoa/pull/2) in [etorreborre/hydrozoa](https://github.com/etorreborre/hydrozoa)
+5. 🎉 Merged PR [#805](https://github.com/pragma-org/amaru/pull/805) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
