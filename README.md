@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#812](https://github.com/pragma-org/amaru/pull/812) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 🎉 Merged PR [#823](https://github.com/pragma-org/amaru/pull/823) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 🗣 Commented on [#805](https://github.com/pragma-org/amaru/pull/805#issuecomment-4452007249) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. ℹ️ Labeled issue [#826](https://github.com/pragma-org/amaru/issues/826) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 💪 Opened PR [#2](https://github.com/etorreborre/hydrozoa/pull/2) in [etorreborre/hydrozoa](https://github.com/etorreborre/hydrozoa)
+1. 🗣 Commented on [#829](https://github.com/pragma-org/amaru/issues/829#issuecomment-4461817937) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🔒 Closed issue [#830](https://github.com/pragma-org/amaru/issues/830) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. ❗ Opened issue [#830](https://github.com/pragma-org/amaru/issues/830) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. ℹ️ Labeled issue [#829](https://github.com/pragma-org/amaru/issues/829) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ℹ️ Labeled issue [#829](https://github.com/pragma-org/amaru/issues/829) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
