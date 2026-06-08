@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#930](https://github.com/pragma-org/amaru/issues/930) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 🗣 Commented on [#930](https://github.com/pragma-org/amaru/issues/930#issuecomment-4638373722) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 🎉 Merged PR [#934](https://github.com/pragma-org/amaru/pull/934) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. ℹ️ Unassigned issue [#900](https://github.com/pragma-org/amaru/issues/900) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. ℹ️ Labeled issue [#930](https://github.com/pragma-org/amaru/issues/930) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🔒 Closed issue [#916](https://github.com/pragma-org/amaru/issues/916) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🔓 Reopened issue [#873](https://github.com/pragma-org/amaru/issues/873) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🗣 Commented on [#873](https://github.com/pragma-org/amaru/issues/873#issuecomment-4646968997) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🔒 Closed issue [#873](https://github.com/pragma-org/amaru/issues/873) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. 🔒 Closed issue [#930](https://github.com/pragma-org/amaru/issues/930) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
