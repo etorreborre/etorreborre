@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1552](https://github.com/etorreborre/specs2/issues/1552) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. ❌ Closed PR [#1566](https://github.com/etorreborre/specs2/pull/1566) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1563](https://github.com/etorreborre/specs2/pull/1563#issuecomment-4796909934) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. ❌ Closed PR [#1563](https://github.com/etorreborre/specs2/pull/1563) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🗣 Commented on [#968](https://github.com/pragma-org/amaru/pull/968#issuecomment-4781334460) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. ❌ Closed PR [#1551](https://github.com/etorreborre/specs2/pull/1551) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🔒 Closed issue [#1552](https://github.com/etorreborre/specs2/issues/1552) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. ❌ Closed PR [#1566](https://github.com/etorreborre/specs2/pull/1566) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. 🗣 Commented on [#1563](https://github.com/etorreborre/specs2/pull/1563#issuecomment-4796909934) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. ❌ Closed PR [#1563](https://github.com/etorreborre/specs2/pull/1563) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
