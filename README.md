@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1035](https://github.com/pragma-org/amaru/issues/1035) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. ❗ Opened issue [#1035](https://github.com/pragma-org/amaru/issues/1035) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. ℹ️ Assigned issue [#1035](https://github.com/pragma-org/amaru/issues/1035) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 🔒 Closed issue [#866](https://github.com/pragma-org/amaru/issues/866) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🔒 Closed issue [#874](https://github.com/pragma-org/amaru/issues/874) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. ❌ Closed PR [#1581](https://github.com/etorreborre/specs2/pull/1581) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. ❌ Closed PR [#1580](https://github.com/etorreborre/specs2/pull/1580) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. ❌ Closed PR [#1582](https://github.com/etorreborre/specs2/pull/1582) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. ℹ️ Labeled issue [#1035](https://github.com/pragma-org/amaru/issues/1035) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ❗ Opened issue [#1035](https://github.com/pragma-org/amaru/issues/1035) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
