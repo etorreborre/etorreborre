@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1044](https://github.com/pragma-org/amaru/pull/1044#issuecomment-5000105517) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 🔒 Closed issue [#829](https://github.com/pragma-org/amaru/issues/829) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. ℹ️ Assigned PR [#1044](https://github.com/pragma-org/amaru/pull/1044) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 💪 Opened PR [#1044](https://github.com/pragma-org/amaru/pull/1044) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🎉 Merged PR [#1029](https://github.com/pragma-org/amaru/pull/1029) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🗣 Commented on [#1005](https://github.com/pragma-org/amaru/pull/1005#issuecomment-5001812679) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🗣 Commented on [#1044](https://github.com/pragma-org/amaru/pull/1044#issuecomment-5000105517) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🔒 Closed issue [#829](https://github.com/pragma-org/amaru/issues/829) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. ℹ️ Assigned PR [#1044](https://github.com/pragma-org/amaru/pull/1044) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. 💪 Opened PR [#1044](https://github.com/pragma-org/amaru/pull/1044) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
