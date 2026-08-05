@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1406](https://github.com/IntersectMBO/cardano-cli/issues/1406) in [IntersectMBO/cardano-cli](https://github.com/IntersectMBO/cardano-cli)
-2. 🗣 Commented on [#1124](https://github.com/pragma-org/amaru/pull/1124#issuecomment-5181802253) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. ℹ️ Assigned issue [#970](https://github.com/pragma-org/amaru/issues/970) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 🔒 Closed issue [#882](https://github.com/pragma-org/amaru/issues/882) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🎉 Merged PR [#1125](https://github.com/pragma-org/amaru/pull/1125) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🗣 Commented on [#6262](https://github.com/unisonweb/unison/issues/6262#issuecomment-5188162485) in [unisonweb/unison](https://github.com/unisonweb/unison)
+2. ❗ Opened issue [#1406](https://github.com/IntersectMBO/cardano-cli/issues/1406) in [IntersectMBO/cardano-cli](https://github.com/IntersectMBO/cardano-cli)
+3. 🗣 Commented on [#1124](https://github.com/pragma-org/amaru/pull/1124#issuecomment-5181802253) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. ℹ️ Assigned issue [#970](https://github.com/pragma-org/amaru/issues/970) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. 🔒 Closed issue [#882](https://github.com/pragma-org/amaru/issues/882) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
