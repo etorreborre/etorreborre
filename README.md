@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6263](https://github.com/unisonweb/unison/pull/6263) in [unisonweb/unison](https://github.com/unisonweb/unison)
-2. ❌ Closed PR [#1598](https://github.com/etorreborre/specs2/pull/1598) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. ❌ Closed PR [#1599](https://github.com/etorreborre/specs2/pull/1599) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. ❌ Closed PR [#1597](https://github.com/etorreborre/specs2/pull/1597) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. ℹ️ Labeled issue [#1150](https://github.com/pragma-org/amaru/issues/1150) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 💪 Opened PR [#1159](https://github.com/pragma-org/amaru/pull/1159) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 💪 Opened PR [#6263](https://github.com/unisonweb/unison/pull/6263) in [unisonweb/unison](https://github.com/unisonweb/unison)
+3. ❌ Closed PR [#1598](https://github.com/etorreborre/specs2/pull/1598) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. ❌ Closed PR [#1599](https://github.com/etorreborre/specs2/pull/1599) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. ❌ Closed PR [#1597](https://github.com/etorreborre/specs2/pull/1597) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
