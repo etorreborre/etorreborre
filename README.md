@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1173](https://github.com/pragma-org/amaru/pull/1173) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. ❌ Closed PR [#1124](https://github.com/pragma-org/amaru/pull/1124) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 🗣 Commented on [#178](https://github.com/portable-scala/sbt-crossproject/pull/178#issuecomment-5266616656) in [portable-scala/sbt-crossproject](https://github.com/portable-scala/sbt-crossproject)
-4. 🗣 Commented on [#1124](https://github.com/pragma-org/amaru/pull/1124#issuecomment-5266605977) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. ❌ Closed PR [#1609](https://github.com/etorreborre/specs2/pull/1609) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🔒 Closed issue [#970](https://github.com/pragma-org/amaru/issues/970) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🎉 Merged PR [#1172](https://github.com/pragma-org/amaru/pull/1172) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🗣 Commented on [#1172](https://github.com/pragma-org/amaru/pull/1172#issuecomment-5278975144) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🎉 Merged PR [#1173](https://github.com/pragma-org/amaru/pull/1173) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ❌ Closed PR [#1124](https://github.com/pragma-org/amaru/pull/1124) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
