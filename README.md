@@ -27,7 +27,7 @@
 ### 📺 Open source libraries
 
  - [specs2][specs2] a BDD library for Scala
- - [registry][registry] a dependency injection library for Haskell (or a typeclass alternative depending on how you see it)
+ - `registry` a dependency injection library for [Haskell][registry-haskell] and [Scala][registry-scala] (or a typeclass alternative depending on how you see it)
  - [potions][potions] a command-line arguments parsing library for Unison
 
 ---
@@ -84,7 +84,8 @@
 </details>
 
 [specs2]: https://github.com/etorreborre/specs2
-[registry]: https://github.com/etorreborre/registry
+[registry-haskell]: https://github.com/etorreborre/registry
+[registry-scala]: https://etorreborre.github.io/registry-scala
 [potions]: https://share.unison-lang.org/@etorreborre/potions
 [twitter]: https://twitter.com/etorreborre
 [mastodon]: https://fosstodon.org/@etorreborre
