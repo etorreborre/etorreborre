@@ -18,7 +18,7 @@
 
 ### Languages
 
-[<img align="left" alt="Rust" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/212px-Rust_programming_language_black_logo.svg.png?20220508043311" />](https://www.haskell.org/)
+[<img align="left" alt="Rust" width="40px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/212px-Rust_programming_language_black_logo.svg.png?20220508043311](https://fr.wikipedia.org/wiki/Fichier:Rust_programming_language_black_logo.svg)" />](https://www.haskell.org/)
 [<img align="left" alt="Haskell" width="60px" src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064c5652d40eda2eb7a838_33ac2334.png" />](https://www.haskell.org/)
 [<img align="left" alt="Scala" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/640px-Scala-full-color.svg.png" />](https://www.scala-lang.org/)
 
