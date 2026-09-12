@@ -9,9 +9,7 @@
 
 ### Connect with me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/etorreborre?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%etorreborre&screen_name=etorreborre)
-
-[<img align="left" alt="etorreborre | LinkedIn" width="28" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[![Twitter Follow](https://img.shields.io/twitter/follow/etorreborre?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%etorreborre&screen_name=etorreborre) [<img align="left" alt="etorreborre | LinkedIn" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 
