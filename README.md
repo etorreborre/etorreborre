@@ -11,15 +11,15 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/etorreborre?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%etorreborre&screen_name=etorreborre)
 
-[<img align="left" alt="etorreborre | LinkedIn" width="120px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png" />][linkedin]
+[<img align="left" alt="etorreborre | LinkedIn" width="28" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 
 ### Languages
 
-[<img align="left" alt="Rust" width="40px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/212px-Rust_programming_language_black_logo.svg.png?20220508043311](https://fr.wikipedia.org/wiki/Fichier:Rust_programming_language_black_logo.svg)" />](https://www.haskell.org/)
+[<img align="left" alt="Rust" width="28" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />](https://rust-lang.org/)
 [<img align="left" alt="Haskell" width="60px" src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064c5652d40eda2eb7a838_33ac2334.png" />](https://www.haskell.org/)
-[<img align="left" alt="Scala" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/640px-Scala-full-color.svg.png" />](https://www.scala-lang.org/)
+[<img align="left" alt="Scala" width="28" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" />](https://www.scala-lang.org/)
 
 <br />
 <br />
