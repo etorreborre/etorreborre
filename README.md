@@ -18,8 +18,8 @@
 ### Languages
 
 [<img align="left" alt="Rust" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />](https://rust-lang.org/)
-[<img align="left" alt="Haskell" width="60" src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064c5652d40eda2eb7a838_33ac2334.png" />](https://www.haskell.org/)
-[<img align="left" alt="Scala" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" />](https://www.scala-lang.org/)
+[<img align="left" alt="Haskell" width="100" src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064c5652d40eda2eb7a838_33ac2334.png" />](https://www.haskell.org/)
+[<img align="left" alt="Scala" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" />](https://www.scala-lang.org/)
 
 <br />
 <br />
