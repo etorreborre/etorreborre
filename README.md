@@ -11,8 +11,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/etorreborre?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%etorreborre&screen_name=etorreborre)
 
-[<img align="left" alt="etorreborre | Mastodon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/432px-Mastodon_Logotype_%28Simple%29.svg.png?20170726152344" />][mastodon]
-[<img align="left" alt="etorreborre | LinkedIn" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/582px-LinkedIn_Logo.svg.png?20170711102837" />][linkedin]
+[<img align="left" alt="etorreborre | LinkedIn" width="120px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png" />][linkedin]
 
 <br />
 
