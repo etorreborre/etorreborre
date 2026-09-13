@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [SBT 2 update + fixes](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.10.0) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. ❌ Closed PR [#1642](https://github.com/etorreborre/specs2/pull/1642) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. ❌ Closed PR [#1643](https://github.com/etorreborre/specs2/pull/1643) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. ❌ Closed PR [#1630](https://github.com/etorreborre/specs2/pull/1630) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-5. 🎉 Merged PR [#1629](https://github.com/etorreborre/specs2/pull/1629) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. 🎉 Merged PR [#1654](https://github.com/etorreborre/specs2/pull/1654) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 💪 Opened PR [#1654](https://github.com/etorreborre/specs2/pull/1654) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. 🚀 Published release [SBT 2 update + fixes](https://github.com/etorreborre/specs2/releases/tag/SPECS2-5.10.0) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. ❌ Closed PR [#1642](https://github.com/etorreborre/specs2/pull/1642) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. ❌ Closed PR [#1643](https://github.com/etorreborre/specs2/pull/1643) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
 <!--END_SECTION:activity-->
 
 </details>
