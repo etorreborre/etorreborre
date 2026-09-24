@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/r2rationality/cardano-cbor-dataset/pull/1) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
-2. ℹ️ Assigned PR [#1389](https://github.com/pragma-org/amaru/pull/1389) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 💪 Opened PR [#1389](https://github.com/pragma-org/amaru/pull/1389) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. ℹ️ Assigned issue [#1353](https://github.com/pragma-org/amaru/issues/1353) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 💪 Opened PR [#1654](https://github.com/etorreborre/specs2/pull/1654) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+1. ℹ️ Labeled issue [#1403](https://github.com/pragma-org/amaru/issues/1403) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. ❗ Opened issue [#1403](https://github.com/pragma-org/amaru/issues/1403) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. ℹ️ Assigned issue [#1403](https://github.com/pragma-org/amaru/issues/1403) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. ℹ️ Assigned issue [#1401](https://github.com/pragma-org/amaru/issues/1401) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ℹ️ Labeled issue [#1401](https://github.com/pragma-org/amaru/issues/1401) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
