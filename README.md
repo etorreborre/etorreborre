@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#435](https://github.com/cardano-hydrozoa/hydrozoa/pull/435#issuecomment-5865763388) in [cardano-hydrozoa/hydrozoa](https://github.com/cardano-hydrozoa/hydrozoa)
-2. 🎉 Merged PR [#2](https://github.com/pragma-org/node-diversity-conformance/pull/2) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
-3. ℹ️ Assigned PR [#2](https://github.com/pragma-org/node-diversity-conformance/pull/2) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
-4. 💪 Opened PR [#2](https://github.com/pragma-org/node-diversity-conformance/pull/2) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
-5. 🗣 Commented on [#1](https://github.com/r2rationality/cardano-cbor-dataset/pull/1#issuecomment-5833829741) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
+1. 🗣 Commented on [#1177](https://github.com/pragma-org/amaru/issues/1177#issuecomment-5873183690) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🔒 Closed issue [#1177](https://github.com/pragma-org/amaru/issues/1177) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🔒 Closed issue [#1403](https://github.com/pragma-org/amaru/issues/1403) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. ❗ Opened issue [#1436](https://github.com/pragma-org/amaru/issues/1436) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ℹ️ Assigned issue [#1436](https://github.com/pragma-org/amaru/issues/1436) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
