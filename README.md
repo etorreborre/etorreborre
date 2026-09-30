@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1177](https://github.com/pragma-org/amaru/issues/1177#issuecomment-5873183690) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 🔒 Closed issue [#1177](https://github.com/pragma-org/amaru/issues/1177) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 🔒 Closed issue [#1403](https://github.com/pragma-org/amaru/issues/1403) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. ❗ Opened issue [#1436](https://github.com/pragma-org/amaru/issues/1436) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. ℹ️ Assigned issue [#1436](https://github.com/pragma-org/amaru/issues/1436) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🗣 Commented on [#1](https://github.com/r2rationality/cardano-cbor-dataset/pull/1#issuecomment-5909127928) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
+2. 🗣 Commented on [#1177](https://github.com/pragma-org/amaru/issues/1177#issuecomment-5873183690) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🔒 Closed issue [#1177](https://github.com/pragma-org/amaru/issues/1177) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🔒 Closed issue [#1403](https://github.com/pragma-org/amaru/issues/1403) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ❗ Opened issue [#1436](https://github.com/pragma-org/amaru/issues/1436) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
