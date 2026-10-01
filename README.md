@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/r2rationality/cardano-cbor-dataset/pull/1) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
-2. 🗣 Commented on [#1](https://github.com/r2rationality/cardano-cbor-dataset/pull/1#issuecomment-5909867473) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
-3. 🗣 Commented on [#1](https://github.com/r2rationality/cardano-cbor-dataset/pull/1#issuecomment-5909127928) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
-4. 🗣 Commented on [#1177](https://github.com/pragma-org/amaru/issues/1177#issuecomment-5873183690) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🔒 Closed issue [#1177](https://github.com/pragma-org/amaru/issues/1177) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🗣 Commented on [#1400](https://github.com/pragma-org/amaru/pull/1400#issuecomment-5934754001) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🗣 Commented on [#1400](https://github.com/pragma-org/amaru/pull/1400#issuecomment-5934008503) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🗣 Commented on [#2](https://github.com/r2rationality/cardano-cbor-dataset/pull/2#issuecomment-5933905610) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
+4. ℹ️ Assigned PR [#3](https://github.com/r2rationality/cardano-cbor-dataset/pull/3) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
+5. 💪 Opened PR [#3](https://github.com/r2rationality/cardano-cbor-dataset/pull/3) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
 <!--END_SECTION:activity-->
 
 </details>
