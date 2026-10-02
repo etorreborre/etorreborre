@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1663](https://github.com/etorreborre/specs2/issues/1663#issuecomment-5954596558) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. 🎉 Merged PR [#3](https://github.com/r2rationality/cardano-cbor-dataset/pull/3) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
-3. 🗣 Commented on [#3](https://github.com/r2rationality/cardano-cbor-dataset/pull/3#issuecomment-5953843191) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
-4. 🗣 Commented on [#2](https://github.com/r2rationality/cardano-cbor-dataset/pull/2#issuecomment-5953783762) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
-5. 🗣 Commented on [#1400](https://github.com/pragma-org/amaru/pull/1400#issuecomment-5934754001) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🎉 Merged PR [#2](https://github.com/r2rationality/cardano-cbor-dataset/pull/2) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
+2. ℹ️ Assigned PR [#4](https://github.com/r2rationality/cardano-cbor-dataset/pull/4) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
+3. 💪 Opened PR [#4](https://github.com/r2rationality/cardano-cbor-dataset/pull/4) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
+4. 🗣 Commented on [#1663](https://github.com/etorreborre/specs2/issues/1663#issuecomment-5954596558) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#3](https://github.com/r2rationality/cardano-cbor-dataset/pull/3) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
 <!--END_SECTION:activity-->
 
 </details>
