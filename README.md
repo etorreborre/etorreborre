@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1479](https://github.com/pragma-org/amaru/pull/1479) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. ℹ️ Assigned PR [#1479](https://github.com/pragma-org/amaru/pull/1479) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 💪 Opened PR [#1479](https://github.com/pragma-org/amaru/pull/1479) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 🎉 Merged PR [#1400](https://github.com/pragma-org/amaru/pull/1400) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🎉 Merged PR [#2](https://github.com/r2rationality/cardano-cbor-dataset/pull/2) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
+1. 🗣 Commented on [#1446](https://github.com/pragma-org/amaru/pull/1446#issuecomment-6128306088) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🗣 Commented on [#1499](https://github.com/pragma-org/amaru/pull/1499#issuecomment-6127650125) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 💪 Opened PR [#1498](https://github.com/pragma-org/amaru/pull/1498) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. ℹ️ Assigned PR [#1498](https://github.com/pragma-org/amaru/pull/1498) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. 🎉 Merged PR [#1479](https://github.com/pragma-org/amaru/pull/1479) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
