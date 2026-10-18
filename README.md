@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1498](https://github.com/pragma-org/amaru/pull/1498#issuecomment-6214994661) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 🗣 Commented on [#5](https://github.com/pragma-org/node-diversity-conformance/pull/5#issuecomment-6149707293) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
-3. 🗣 Commented on [#5](https://github.com/pragma-org/node-diversity-conformance/pull/5#issuecomment-6149676269) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
-4. 🗣 Commented on [#4](https://github.com/pragma-org/node-diversity-conformance/pull/4#issuecomment-6149583379) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
-5. 🗣 Commented on [#1446](https://github.com/pragma-org/amaru/pull/1446#issuecomment-6128306088) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🎉 Merged PR [#1498](https://github.com/pragma-org/amaru/pull/1498) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🗣 Commented on [#1498](https://github.com/pragma-org/amaru/pull/1498#issuecomment-6214994661) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🗣 Commented on [#5](https://github.com/pragma-org/node-diversity-conformance/pull/5#issuecomment-6149707293) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
+4. 🗣 Commented on [#5](https://github.com/pragma-org/node-diversity-conformance/pull/5#issuecomment-6149676269) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
+5. 🗣 Commented on [#4](https://github.com/pragma-org/node-diversity-conformance/pull/4#issuecomment-6149583379) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
 <!--END_SECTION:activity-->
 
 </details>
