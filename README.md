@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1669](https://github.com/etorreborre/specs2/pull/1669) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-2. ❌ Closed PR [#1672](https://github.com/etorreborre/specs2/pull/1672) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🎉 Merged PR [#1498](https://github.com/pragma-org/amaru/pull/1498) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 🗣 Commented on [#1498](https://github.com/pragma-org/amaru/pull/1498#issuecomment-6214994661) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🗣 Commented on [#5](https://github.com/pragma-org/node-diversity-conformance/pull/5#issuecomment-6149707293) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
+1. ❗ Opened issue [#6320](https://github.com/unisonweb/unison/issues/6320) in [unisonweb/unison](https://github.com/unisonweb/unison)
+2. ℹ️ Labeled issue [#6320](https://github.com/unisonweb/unison/issues/6320) in [unisonweb/unison](https://github.com/unisonweb/unison)
+3. ❌ Closed PR [#1669](https://github.com/etorreborre/specs2/pull/1669) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+4. ❌ Closed PR [#1672](https://github.com/etorreborre/specs2/pull/1672) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+5. 🎉 Merged PR [#1498](https://github.com/pragma-org/amaru/pull/1498) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
