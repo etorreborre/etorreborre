@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6320](https://github.com/unisonweb/unison/issues/6320#issuecomment-6526676738) in [unisonweb/unison](https://github.com/unisonweb/unison)
-2. 🗣 Commented on [#6320](https://github.com/unisonweb/unison/issues/6320#issuecomment-6526643684) in [unisonweb/unison](https://github.com/unisonweb/unison)
-3. 💪 Opened PR [#1566](https://github.com/pragma-org/amaru/pull/1566) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. ℹ️ Assigned PR [#1566](https://github.com/pragma-org/amaru/pull/1566) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 💪 Opened PR [#14](https://github.com/pragma-org/node-diversity-conformance/pull/14) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
+1. 🗣 Commented on [#6320](https://github.com/unisonweb/unison/issues/6320#issuecomment-6528373665) in [unisonweb/unison](https://github.com/unisonweb/unison)
+2. 🗣 Commented on [#6320](https://github.com/unisonweb/unison/issues/6320#issuecomment-6526676738) in [unisonweb/unison](https://github.com/unisonweb/unison)
+3. 🗣 Commented on [#6320](https://github.com/unisonweb/unison/issues/6320#issuecomment-6526643684) in [unisonweb/unison](https://github.com/unisonweb/unison)
+4. 💪 Opened PR [#1566](https://github.com/pragma-org/amaru/pull/1566) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ℹ️ Assigned PR [#1566](https://github.com/pragma-org/amaru/pull/1566) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
