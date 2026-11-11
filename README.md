@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/pragma-org/node-diversity-conformance/pull/23) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
-2. ℹ️ Assigned PR [#23](https://github.com/pragma-org/node-diversity-conformance/pull/23) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
-3. 💪 Opened PR [#23](https://github.com/pragma-org/node-diversity-conformance/pull/23) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
-4. 🎉 Merged PR [#14](https://github.com/r2rationality/cardano-cbor-dataset/pull/14) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
-5. 💪 Opened PR [#14](https://github.com/r2rationality/cardano-cbor-dataset/pull/14) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
+1. ℹ️ Assigned issue [#1612](https://github.com/pragma-org/amaru/issues/1612) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🎉 Merged PR [#23](https://github.com/pragma-org/node-diversity-conformance/pull/23) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
+3. ℹ️ Assigned PR [#23](https://github.com/pragma-org/node-diversity-conformance/pull/23) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
+4. 💪 Opened PR [#23](https://github.com/pragma-org/node-diversity-conformance/pull/23) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
+5. 🎉 Merged PR [#14](https://github.com/r2rationality/cardano-cbor-dataset/pull/14) in [r2rationality/cardano-cbor-dataset](https://github.com/r2rationality/cardano-cbor-dataset)
 <!--END_SECTION:activity-->
 
 </details>
