@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1637](https://github.com/pragma-org/amaru/pull/1637) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. ❗ Opened issue [#6288](https://github.com/blinklabs-io/dingo/issues/6288) in [blinklabs-io/dingo](https://github.com/blinklabs-io/dingo)
-3. 💪 Opened PR [#1637](https://github.com/pragma-org/amaru/pull/1637) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. ℹ️ Assigned PR [#1637](https://github.com/pragma-org/amaru/pull/1637) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🔒 Closed issue [#1612](https://github.com/pragma-org/amaru/issues/1612) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🗣 Commented on [#24](https://github.com/pragma-org/node-diversity-conformance/pull/24#issuecomment-6918497262) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
+2. 🗣 Commented on [#24](https://github.com/pragma-org/node-diversity-conformance/pull/24#issuecomment-6918476653) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
+3. ℹ️ Assigned PR [#1652](https://github.com/pragma-org/amaru/pull/1652) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🎉 Merged PR [#1637](https://github.com/pragma-org/amaru/pull/1637) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ❗ Opened issue [#6288](https://github.com/blinklabs-io/dingo/issues/6288) in [blinklabs-io/dingo](https://github.com/blinklabs-io/dingo)
 <!--END_SECTION:activity-->
 
 </details>
