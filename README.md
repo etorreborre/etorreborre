@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/pragma-org/node-diversity-conformance/issues/12#issuecomment-6924478577) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
-2. 🗣 Commented on [#1659](https://github.com/pragma-org/amaru/pull/1659#issuecomment-6923831614) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 💪 Opened PR [#1660](https://github.com/pragma-org/amaru/pull/1660) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. ℹ️ Assigned PR [#1660](https://github.com/pragma-org/amaru/pull/1660) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🗣 Commented on [#24](https://github.com/pragma-org/node-diversity-conformance/pull/24#issuecomment-6918497262) in [pragma-org/node-diversity-conformance](https://github.com/pragma-org/node-diversity-conformance)
+1. 🗣 Commented on [#5707](https://github.com/unisonweb/unison/issues/5707#issuecomment-6974841156) in [unisonweb/unison](https://github.com/unisonweb/unison)
+2. 🗣 Commented on [#5704](https://github.com/unisonweb/unison/issues/5704#issuecomment-6974799064) in [unisonweb/unison](https://github.com/unisonweb/unison)
+3. 🗣 Commented on [#5708](https://github.com/unisonweb/unison/issues/5708#issuecomment-6974518275) in [unisonweb/unison](https://github.com/unisonweb/unison)
+4. 🗣 Commented on [#5337](https://github.com/unisonweb/unison/issues/5337#issuecomment-6974454786) in [unisonweb/unison](https://github.com/unisonweb/unison)
+5. 🗣 Commented on [#6320](https://github.com/unisonweb/unison/issues/6320#issuecomment-6974858351) in [unisonweb/unison](https://github.com/unisonweb/unison)
 <!--END_SECTION:activity-->
 
 </details>
