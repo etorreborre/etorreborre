@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6350](https://github.com/unisonweb/unison/issues/6350) in [unisonweb/unison](https://github.com/unisonweb/unison)
-2. ℹ️ Labeled issue [#6350](https://github.com/unisonweb/unison/issues/6350) in [unisonweb/unison](https://github.com/unisonweb/unison)
-3. ℹ️ Labeled issue [#6349](https://github.com/unisonweb/unison/issues/6349) in [unisonweb/unison](https://github.com/unisonweb/unison)
-4. ❗ Opened issue [#6349](https://github.com/unisonweb/unison/issues/6349) in [unisonweb/unison](https://github.com/unisonweb/unison)
-5. 🔒 Closed issue [#1650](https://github.com/pragma-org/amaru/issues/1650) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 🗣 Commented on [#1687](https://github.com/etorreborre/specs2/pull/1687#issuecomment-7021249295) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+2. 🗣 Commented on [#1687](https://github.com/etorreborre/specs2/pull/1687#issuecomment-7021216521) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
+3. ❗ Opened issue [#6350](https://github.com/unisonweb/unison/issues/6350) in [unisonweb/unison](https://github.com/unisonweb/unison)
+4. ℹ️ Labeled issue [#6350](https://github.com/unisonweb/unison/issues/6350) in [unisonweb/unison](https://github.com/unisonweb/unison)
+5. ℹ️ Labeled issue [#6349](https://github.com/unisonweb/unison/issues/6349) in [unisonweb/unison](https://github.com/unisonweb/unison)
 <!--END_SECTION:activity-->
 
 </details>
