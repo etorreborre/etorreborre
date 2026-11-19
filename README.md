@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5707](https://github.com/unisonweb/unison/issues/5707#issuecomment-6974841156) in [unisonweb/unison](https://github.com/unisonweb/unison)
-2. 🗣 Commented on [#5704](https://github.com/unisonweb/unison/issues/5704#issuecomment-6974799064) in [unisonweb/unison](https://github.com/unisonweb/unison)
-3. 🗣 Commented on [#5708](https://github.com/unisonweb/unison/issues/5708#issuecomment-6974518275) in [unisonweb/unison](https://github.com/unisonweb/unison)
-4. 🗣 Commented on [#5337](https://github.com/unisonweb/unison/issues/5337#issuecomment-6974454786) in [unisonweb/unison](https://github.com/unisonweb/unison)
-5. 🗣 Commented on [#6320](https://github.com/unisonweb/unison/issues/6320#issuecomment-6974858351) in [unisonweb/unison](https://github.com/unisonweb/unison)
+1. ❗ Opened issue [#6350](https://github.com/unisonweb/unison/issues/6350) in [unisonweb/unison](https://github.com/unisonweb/unison)
+2. ℹ️ Labeled issue [#6350](https://github.com/unisonweb/unison/issues/6350) in [unisonweb/unison](https://github.com/unisonweb/unison)
+3. ℹ️ Labeled issue [#6349](https://github.com/unisonweb/unison/issues/6349) in [unisonweb/unison](https://github.com/unisonweb/unison)
+4. ❗ Opened issue [#6349](https://github.com/unisonweb/unison/issues/6349) in [unisonweb/unison](https://github.com/unisonweb/unison)
+5. 🔒 Closed issue [#1650](https://github.com/pragma-org/amaru/issues/1650) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
