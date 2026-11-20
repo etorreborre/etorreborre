@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1667](https://github.com/pragma-org/amaru/pull/1667) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. 🗣 Commented on [#1687](https://github.com/etorreborre/specs2/pull/1687#issuecomment-7021249295) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-3. 🗣 Commented on [#1687](https://github.com/etorreborre/specs2/pull/1687#issuecomment-7021216521) in [etorreborre/specs2](https://github.com/etorreborre/specs2)
-4. ❗ Opened issue [#6350](https://github.com/unisonweb/unison/issues/6350) in [unisonweb/unison](https://github.com/unisonweb/unison)
-5. ℹ️ Labeled issue [#6350](https://github.com/unisonweb/unison/issues/6350) in [unisonweb/unison](https://github.com/unisonweb/unison)
+1. 🗣 Commented on [#1344](https://github.com/pragma-org/amaru/issues/1344#issuecomment-7045664979) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🗣 Commented on [#1678](https://github.com/pragma-org/amaru/issues/1678#issuecomment-7045455482) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🗣 Commented on [#999](https://github.com/pragma-org/amaru/issues/999#issuecomment-7045372464) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🗣 Commented on [#910](https://github.com/pragma-org/amaru/issues/910#issuecomment-7045341628) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. 🗣 Commented on [#665](https://github.com/pragma-org/amaru/issues/665#issuecomment-7045283125) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
