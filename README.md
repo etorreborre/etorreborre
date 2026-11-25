@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5707](https://github.com/unisonweb/unison/issues/5707#issuecomment-7128259777) in [unisonweb/unison](https://github.com/unisonweb/unison)
-2. 🔒 Closed issue [#5707](https://github.com/unisonweb/unison/issues/5707) in [unisonweb/unison](https://github.com/unisonweb/unison)
-3. 🗣 Commented on [#59](https://github.com/haskell-hvr/HsYAML/issues/59#issuecomment-7097731694) in [haskell-hvr/HsYAML](https://github.com/haskell-hvr/HsYAML)
-4. 🎉 Merged PR [#1682](https://github.com/pragma-org/amaru/pull/1682) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-5. 🗣 Commented on [#693](https://github.com/pragma-org/amaru/issues/693#issuecomment-7045261633) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+1. 💪 Opened PR [#1692](https://github.com/pragma-org/amaru/pull/1692) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. ℹ️ Assigned PR [#1692](https://github.com/pragma-org/amaru/pull/1692) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🔒 Closed issue [#697](https://github.com/pragma-org/amaru/issues/697) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🗣 Commented on [#5707](https://github.com/unisonweb/unison/issues/5707#issuecomment-7128259777) in [unisonweb/unison](https://github.com/unisonweb/unison)
+5. 🔒 Closed issue [#5707](https://github.com/unisonweb/unison/issues/5707) in [unisonweb/unison](https://github.com/unisonweb/unison)
 <!--END_SECTION:activity-->
 
 </details>
