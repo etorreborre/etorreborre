@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1692](https://github.com/pragma-org/amaru/pull/1692) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-2. ℹ️ Assigned PR [#1692](https://github.com/pragma-org/amaru/pull/1692) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-3. 🔒 Closed issue [#697](https://github.com/pragma-org/amaru/issues/697) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
-4. 🗣 Commented on [#5707](https://github.com/unisonweb/unison/issues/5707#issuecomment-7128259777) in [unisonweb/unison](https://github.com/unisonweb/unison)
-5. 🔒 Closed issue [#5707](https://github.com/unisonweb/unison/issues/5707) in [unisonweb/unison](https://github.com/unisonweb/unison)
+1. 🔒 Closed issue [#841](https://github.com/pragma-org/amaru/issues/841) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+2. 🗣 Commented on [#841](https://github.com/pragma-org/amaru/issues/841#issuecomment-7197926814) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+3. 🗣 Commented on [#840](https://github.com/pragma-org/amaru/issues/840#issuecomment-7197924046) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+4. 🔒 Closed issue [#840](https://github.com/pragma-org/amaru/issues/840) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
+5. ℹ️ Unassigned issue [#841](https://github.com/pragma-org/amaru/issues/841) in [pragma-org/amaru](https://github.com/pragma-org/amaru)
 <!--END_SECTION:activity-->
 
 </details>
